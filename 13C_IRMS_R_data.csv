@@ -1,0 +1,1177 @@
+Species_Tissue;Time;Treatment;Value
+Tomato_Root;0;C;-31.37
+Tomato_Root;0;C;-30.83
+Tomato_Root;0;C;-32.07
+Tomato_Root;0;C;-31.05
+Tomato_Root;0;C;-30.62
+Tomato_Root;0;C;-32.39
+Tomato_Root;0;C;-32.52
+Tomato_Root;0; -P;-32.8
+Tomato_Root;0; -P;-32.44
+Tomato_Root;0; -P;-33.68
+Tomato_Root;0; -P;-33.02
+Tomato_Root;0; -P;-31.9
+Tomato_Root;0; -P;-32.56
+Tomato_Root;0; -P;-32.26
+Tomato_Root;0; -Fe;-33.53
+Tomato_Root;0; -Fe;-33.04
+Tomato_Root;0; -Fe;-34.05
+Tomato_Root;0; -Fe;-32.87
+Tomato_Root;0; -Fe;-33.38
+Tomato_Root;0; -Fe;-32.33
+Tomato_Root;0; -Fe;-33.07
+Tomato_Root;0; -P/-Fe;-33.06
+Tomato_Root;0; -P/-Fe;-32.85
+Tomato_Root;0; -P/-Fe;-33.04
+Tomato_Root;0; -P/-Fe;-31.24
+Tomato_Root;0; -P/-Fe;-31.76
+Tomato_Root;0; -P/-Fe;-33.16
+Tomato_Root;0; -P/-Fe;-33.99
+Tomato_Root;1;C;-33.44
+Tomato_Root;1;C;-31.6
+Tomato_Root;1;C;-32.53
+Tomato_Root;1;C;-34.29
+Tomato_Root;1;C;-33.92
+Tomato_Root;1;C;-32.6
+Tomato_Root;1;C;-33.82
+Tomato_Root;1; -P;-32.64
+Tomato_Root;1; -P;-33.49
+Tomato_Root;1; -P;-32.27
+Tomato_Root;1; -P;-31.68
+Tomato_Root;1; -P;-33.17
+Tomato_Root;1; -P;-33.93
+Tomato_Root;1; -P;-33.92
+Tomato_Root;1; -Fe;-34.23
+Tomato_Root;1; -Fe;-33.95
+Tomato_Root;1; -Fe;-34.95
+Tomato_Root;1; -Fe;-34.72
+Tomato_Root;1; -Fe;-33.32
+Tomato_Root;1; -Fe;-33.29
+Tomato_Root;1; -Fe;-35.3
+Tomato_Root;1; -P/-Fe;-35.35
+Tomato_Root;1; -P/-Fe;-31.55
+Tomato_Root;1; -P/-Fe;-34.29
+Tomato_Root;1; -P/-Fe;-34.5
+Tomato_Root;1; -P/-Fe;-32.59
+Tomato_Root;1; -P/-Fe;-32.43
+Tomato_Root;1; -P/-Fe;-35.11
+Tomato_Root;3;C;-35.27
+Tomato_Root;3;C;-34.11
+Tomato_Root;3;C;-35.93
+Tomato_Root;3;C;-36.04
+Tomato_Root;3;C;-35.44
+Tomato_Root;3;C;-35.45
+Tomato_Root;3;C;-35.3
+Tomato_Root;3; -P;-35.16
+Tomato_Root;3; -P;-35.6
+Tomato_Root;3; -P;-34.36
+Tomato_Root;3; -P;-35.36
+Tomato_Root;3; -P;-35.89
+Tomato_Root;3; -P;-35.65
+Tomato_Root;3; -P;-34.76
+Tomato_Root;3; -Fe;-36.42
+Tomato_Root;3; -Fe;-36.78
+Tomato_Root;3; -Fe;-36.13
+Tomato_Root;3; -Fe;-35.78
+Tomato_Root;3; -Fe;-36.4
+Tomato_Root;3; -Fe;-35.96
+Tomato_Root;3; -Fe;-36.09
+Tomato_Root;3; -P/-Fe;-35.8
+Tomato_Root;3; -P/-Fe;-36.51
+Tomato_Root;3; -P/-Fe;-36.85
+Tomato_Root;3; -P/-Fe;-35.14
+Tomato_Root;3; -P/-Fe;-37.03
+Tomato_Root;3; -P/-Fe;-36.33
+Tomato_Root;3; -P/-Fe;-34.93
+Tomato_Root;6;C;-36.55
+Tomato_Root;6;C;-35.36
+Tomato_Root;6;C;-35.73
+Tomato_Root;6;C;-35.86
+Tomato_Root;6;C;-37.16
+Tomato_Root;6;C;-37.07
+Tomato_Root;6;C;-36.76
+Tomato_Root;6; -P;-36.07
+Tomato_Root;6; -P;-35.1
+Tomato_Root;6; -P;-35.34
+Tomato_Root;6; -P;-36.38
+Tomato_Root;6; -P;-34.37
+Tomato_Root;6; -P;-35.3
+Tomato_Root;6; -P;-35.67
+Tomato_Root;6; -Fe;-37
+Tomato_Root;6; -Fe;-37.08
+Tomato_Root;6; -Fe;-37.13
+Tomato_Root;6; -Fe;-37.05
+Tomato_Root;6; -Fe;-36.58
+Tomato_Root;6; -Fe;-37.05
+Tomato_Root;6; -Fe;-37.25
+Tomato_Root;6; -P/-Fe;-36.19
+Tomato_Root;6; -P/-Fe;-36.16
+Tomato_Root;6; -P/-Fe;-36.29
+Tomato_Root;6; -P/-Fe;-36.25
+Tomato_Root;6; -P/-Fe;-36.22
+Tomato_Root;6; -P/-Fe;-36.6
+Tomato_Root;6; -P/-Fe;-36.32
+Tomato_Root;8;C;-37.06
+Tomato_Root;8;C;-37.28
+Tomato_Root;8;C;-37.43
+Tomato_Root;8;C;-37.79
+Tomato_Root;8;C;-37.27
+Tomato_Root;8;C;-37.12
+Tomato_Root;8;C;-37.71
+Tomato_Root;8; -P;-35.93
+Tomato_Root;8; -P;-35.75
+Tomato_Root;8; -P;-33.21
+Tomato_Root;8; -P;-36.11
+Tomato_Root;8; -P;-34.31
+Tomato_Root;8; -P;-35.88
+Tomato_Root;8; -P;-35.92
+Tomato_Root;8; -Fe;-37.98
+Tomato_Root;8; -Fe;-37.48
+Tomato_Root;8; -Fe;-37.67
+Tomato_Root;8; -Fe;-37.65
+Tomato_Root;8; -Fe;-37.44
+Tomato_Root;8; -Fe;-37.8
+Tomato_Root;8; -Fe;-37.76
+Tomato_Root;8; -P/-Fe;-37.19
+Tomato_Root;8; -P/-Fe;-36.17
+Tomato_Root;8; -P/-Fe;-35.84
+Tomato_Root;8; -P/-Fe;-36.48
+Tomato_Root;8; -P/-Fe;-36.2
+Tomato_Root;8; -P/-Fe;-36.73
+Tomato_Root;8; -P/-Fe;-36.74
+Tomato_Root;10;C;-37.91
+Tomato_Root;10;C;-38.13
+Tomato_Root;10;C;-37.94
+Tomato_Root;10;C;-37.97
+Tomato_Root;10;C;-38.05
+Tomato_Root;10;C;-37.87
+Tomato_Root;10;C;-37.94
+Tomato_Root;10; -P;-35.84
+Tomato_Root;10; -P;-35.77
+Tomato_Root;10; -P;-35.09
+Tomato_Root;10; -P;-35.17
+Tomato_Root;10; -P;-34.97
+Tomato_Root;10; -P;-35.47
+Tomato_Root;10; -P;-34.73
+Tomato_Root;10; -Fe;-38.4
+Tomato_Root;10; -Fe;-37.95
+Tomato_Root;10; -Fe;-37.93
+Tomato_Root;10; -Fe;-38.11
+Tomato_Root;10; -Fe;-37.37
+Tomato_Root;10; -Fe;-38.21
+Tomato_Root;10; -Fe;-37.94
+Tomato_Root;10; -P/-Fe;-36.78
+Tomato_Root;10; -P/-Fe;-36.04
+Tomato_Root;10; -P/-Fe;-35.99
+Tomato_Root;10; -P/-Fe;-37.01
+Tomato_Root;10; -P/-Fe;-36.72
+Tomato_Root;10; -P/-Fe;-36.81
+Tomato_Root;10; -P/-Fe;-36.76
+Tomato_Root;13;C;-37.73
+Tomato_Root;13;C;-37.79
+Tomato_Root;13;C;-37.72
+Tomato_Root;13;C;-37.53
+Tomato_Root;13;C;-37.25
+Tomato_Root;13;C;-37
+Tomato_Root;13;C;-37.58
+Tomato_Root;13; -P;-35.71
+Tomato_Root;13; -P;-35.19
+Tomato_Root;13; -P;-35.21
+Tomato_Root;13; -P;-36.04
+Tomato_Root;13; -P;-35.07
+Tomato_Root;13; -P;-34.79
+Tomato_Root;13; -P;-34.64
+Tomato_Root;13; -Fe;-38.3
+Tomato_Root;13; -Fe;-38
+Tomato_Root;13; -Fe;-38.02
+Tomato_Root;13; -Fe;-38.05
+Tomato_Root;13; -Fe;-38.16
+Tomato_Root;13; -Fe;-38.14
+Tomato_Root;13; -Fe;-38.31
+Tomato_Root;13; -P/-Fe;-36.53
+Tomato_Root;13; -P/-Fe;-35.33
+Tomato_Root;13; -P/-Fe;-36.21
+Tomato_Root;13; -P/-Fe;-36.54
+Tomato_Root;13; -P/-Fe;-36.26
+Tomato_Root;13; -P/-Fe;-36.67
+Tomato_Root;13; -P/-Fe;-36.39
+Tomato_Shoot;0;C;-32.35
+Tomato_Shoot;0;C;-34.61
+Tomato_Shoot;0;C;-33.79
+Tomato_Shoot;0;C;-34.1
+Tomato_Shoot;0;C;-35.08
+Tomato_Shoot;0;C;-35.19
+Tomato_Shoot;0;C;-34.02
+Tomato_Shoot;0; -P;-35.87
+Tomato_Shoot;0; -P;-36.18
+Tomato_Shoot;0; -P;-35.76
+Tomato_Shoot;0; -P;-35.73
+Tomato_Shoot;0; -P;-36.01
+Tomato_Shoot;0; -P;-34.39
+Tomato_Shoot;0; -P;-35.49
+Tomato_Shoot;0; -Fe;-35.41
+Tomato_Shoot;0; -Fe;-35.7
+Tomato_Shoot;0; -Fe;-36.05
+Tomato_Shoot;0; -Fe;-36.03
+Tomato_Shoot;0; -Fe;-36.48
+Tomato_Shoot;0; -Fe;-32.77
+Tomato_Shoot;0; -Fe;-36.07
+Tomato_Shoot;0; -P/-Fe;-34.91
+Tomato_Shoot;0; -P/-Fe;-35.85
+Tomato_Shoot;0; -P/-Fe;-34.33
+Tomato_Shoot;0; -P/-Fe;-35.32
+Tomato_Shoot;0; -P/-Fe;-35.38
+Tomato_Shoot;0; -P/-Fe;-35.44
+Tomato_Shoot;0; -P/-Fe;-35.76
+Tomato_Shoot;1;C;-37.03
+Tomato_Shoot;1;C;-36.98
+Tomato_Shoot;1;C;-35.75
+Tomato_Shoot;1;C;-36.26
+Tomato_Shoot;1;C;-37.5
+Tomato_Shoot;1;C;-37.52
+Tomato_Shoot;1;C;-36.83
+Tomato_Shoot;1; -P;-37.22
+Tomato_Shoot;1; -P;-37.73
+Tomato_Shoot;1; -P;-36.58
+Tomato_Shoot;1; -P;-36.6
+Tomato_Shoot;1; -P;-37.17
+Tomato_Shoot;1; -P;-37.64
+Tomato_Shoot;1; -P;-37.5
+Tomato_Shoot;1; -Fe;-37.31
+Tomato_Shoot;1; -Fe;-37.48
+Tomato_Shoot;1; -Fe;-37.59
+Tomato_Shoot;1; -Fe;-37.29
+Tomato_Shoot;1; -Fe;-37.62
+Tomato_Shoot;1; -Fe;-37.69
+Tomato_Shoot;1; -Fe;-37.17
+Tomato_Shoot;1; -P/-Fe;-36.88
+Tomato_Shoot;1; -P/-Fe;-33.46
+Tomato_Shoot;1; -P/-Fe;-36.4
+Tomato_Shoot;1; -P/-Fe;-36.23
+Tomato_Shoot;1; -P/-Fe;-37.76
+Tomato_Shoot;1; -P/-Fe;-32.98
+Tomato_Shoot;1; -P/-Fe;-37.09
+Tomato_Shoot;3;C;-38.35
+Tomato_Shoot;3;C;-38.06
+Tomato_Shoot;3;C;-38.37
+Tomato_Shoot;3;C;-38.06
+Tomato_Shoot;3;C;-38.19
+Tomato_Shoot;3;C;-38.79
+Tomato_Shoot;3;C;-38.29
+Tomato_Shoot;3; -P;-38.25
+Tomato_Shoot;3; -P;-37.94
+Tomato_Shoot;3; -P;-38.27
+Tomato_Shoot;3; -P;-38.63
+Tomato_Shoot;3; -P;-38.21
+Tomato_Shoot;3; -P;-38.22
+Tomato_Shoot;3; -P;-38.37
+Tomato_Shoot;3; -Fe;-37.92
+Tomato_Shoot;3; -Fe;-38.4
+Tomato_Shoot;3; -Fe;-38.29
+Tomato_Shoot;3; -Fe;-37.8
+Tomato_Shoot;3; -Fe;-38.13
+Tomato_Shoot;3; -Fe;-38.3
+Tomato_Shoot;3; -Fe;-38.37
+Tomato_Shoot;3; -P/-Fe;-38.32
+Tomato_Shoot;3; -P/-Fe;-38.05
+Tomato_Shoot;3; -P/-Fe;-38.22
+Tomato_Shoot;3; -P/-Fe;-36.48
+Tomato_Shoot;3; -P/-Fe;-38.09
+Tomato_Shoot;3; -P/-Fe;-37.93
+Tomato_Shoot;3; -P/-Fe;-37.85
+Tomato_Shoot;6;C;-38.03
+Tomato_Shoot;6;C;-37.86
+Tomato_Shoot;6;C;-38.06
+Tomato_Shoot;6;C;-37.64
+Tomato_Shoot;6;C;-37.93
+Tomato_Shoot;6;C;-38.03
+Tomato_Shoot;6;C;-37.85
+Tomato_Shoot;6; -P;-37.59
+Tomato_Shoot;6; -P;-36.95
+Tomato_Shoot;6; -P;-36.83
+Tomato_Shoot;6; -P;-37.59
+Tomato_Shoot;6; -P;-35.3
+Tomato_Shoot;6; -P;-36.57
+Tomato_Shoot;6; -P;-37.14
+Tomato_Shoot;6; -Fe;-38.14
+Tomato_Shoot;6; -Fe;-38.09
+Tomato_Shoot;6; -Fe;-38.09
+Tomato_Shoot;6; -Fe;-37.95
+Tomato_Shoot;6; -Fe;-37.84
+Tomato_Shoot;6; -Fe;-37.87
+Tomato_Shoot;6; -Fe;-38.15
+Tomato_Shoot;6; -P/-Fe;-37.1
+Tomato_Shoot;6; -P/-Fe;-37.15
+Tomato_Shoot;6; -P/-Fe;-37.17
+Tomato_Shoot;6; -P/-Fe;-37.55
+Tomato_Shoot;6; -P/-Fe;-37.19
+Tomato_Shoot;6; -P/-Fe;-37.24
+Tomato_Shoot;6; -P/-Fe;-36.86
+Tomato_Shoot;8;C;-38.71
+Tomato_Shoot;8;C;-38.84
+Tomato_Shoot;8;C;-38.82
+Tomato_Shoot;8;C;-38.79
+Tomato_Shoot;8;C;-38.57
+Tomato_Shoot;8;C;-38.56
+Tomato_Shoot;8;C;-38.92
+Tomato_Shoot;8; -P;-37.17
+Tomato_Shoot;8; -P;-37.26
+Tomato_Shoot;8; -P;-35.24
+Tomato_Shoot;8; -P;-37.51
+Tomato_Shoot;8; -P;-35.99
+Tomato_Shoot;8; -P;-37.13
+Tomato_Shoot;8; -P;-37.14
+Tomato_Shoot;8; -Fe;-38.44
+Tomato_Shoot;8; -Fe;-38.38
+Tomato_Shoot;8; -Fe;-38.28
+Tomato_Shoot;8; -Fe;-38.78
+Tomato_Shoot;8; -Fe;-38.47
+Tomato_Shoot;8; -Fe;-39.01
+Tomato_Shoot;8; -Fe;-38.7
+Tomato_Shoot;8; -P/-Fe;-37.97
+Tomato_Shoot;8; -P/-Fe;-37.35
+Tomato_Shoot;8; -P/-Fe;-36.66
+Tomato_Shoot;8; -P/-Fe;-37.02
+Tomato_Shoot;8; -P/-Fe;-37.42
+Tomato_Shoot;8; -P/-Fe;-37.36
+Tomato_Shoot;8; -P/-Fe;-37.26
+Tomato_Shoot;10;C;-39.5
+Tomato_Shoot;10;C;-39.31
+Tomato_Shoot;10;C;-39.33
+Tomato_Shoot;10;C;-39.24
+Tomato_Shoot;10;C;-39.79
+Tomato_Shoot;10;C;-39.25
+Tomato_Shoot;10;C;-39.06
+Tomato_Shoot;10; -P;-37.44
+Tomato_Shoot;10; -P;-37.21
+Tomato_Shoot;10; -P;-36.61
+Tomato_Shoot;10; -P;-36.76
+Tomato_Shoot;10; -P;-36.14
+Tomato_Shoot;10; -P;-36.52
+Tomato_Shoot;10; -P;-36.16
+Tomato_Shoot;10; -Fe;-38.81
+Tomato_Shoot;10; -Fe;-39.15
+Tomato_Shoot;10; -Fe;-39.38
+Tomato_Shoot;10; -Fe;-39.41
+Tomato_Shoot;10; -Fe;-38.99
+Tomato_Shoot;10; -Fe;-38.72
+Tomato_Shoot;10; -Fe;-38.78
+Tomato_Shoot;10; -P/-Fe;-37.26
+Tomato_Shoot;10; -P/-Fe;-37.13
+Tomato_Shoot;10; -P/-Fe;-37
+Tomato_Shoot;10; -P/-Fe;-37.61
+Tomato_Shoot;10; -P/-Fe;-37.47
+Tomato_Shoot;10; -P/-Fe;-37.63
+Tomato_Shoot;10; -P/-Fe;-37.35
+Tomato_Shoot;13;C;-39.2
+Tomato_Shoot;13;C;-39.28
+Tomato_Shoot;13;C;-39.2
+Tomato_Shoot;13;C;-39.05
+Tomato_Shoot;13;C;-38.69
+Tomato_Shoot;13;C;-38.63
+Tomato_Shoot;13;C;-39.11
+Tomato_Shoot;13; -P;-37.17
+Tomato_Shoot;13; -P;-36.78
+Tomato_Shoot;13; -P;-36.81
+Tomato_Shoot;13; -P;-37.16
+Tomato_Shoot;13; -P;-36.6
+Tomato_Shoot;13; -P;-36.46
+Tomato_Shoot;13; -P;-36.06
+Tomato_Shoot;13; -Fe;-39.37
+Tomato_Shoot;13; -Fe;-39.04
+Tomato_Shoot;13; -Fe;-38.98
+Tomato_Shoot;13; -Fe;-39.28
+Tomato_Shoot;13; -Fe;-38.73
+Tomato_Shoot;13; -Fe;-39.2
+Tomato_Shoot;13; -Fe;-39.19
+Tomato_Shoot;13; -P/-Fe;-36.72
+Tomato_Shoot;13; -P/-Fe;-35.78
+Tomato_Shoot;13; -P/-Fe;-36.82
+Tomato_Shoot;13; -P/-Fe;-37.13
+Tomato_Shoot;13; -P/-Fe;-37.21
+Tomato_Shoot;13; -P/-Fe;-37.35
+Tomato_Shoot;13; -P/-Fe;-37.1
+Maize_Root;0;C;-11.98
+Maize_Root;0;C;-12.26
+Maize_Root;0;C;-12.23
+Maize_Root;0;C;-11.77
+Maize_Root;0;C;-12.42
+Maize_Root;0;C;-12.18
+Maize_Root;0;C;-12.61
+Maize_Root;0; -P;-13.53
+Maize_Root;0; -P;-12.69
+Maize_Root;0; -P;-12.3
+Maize_Root;0; -P;-12.37
+Maize_Root;0; -P;-12.22
+Maize_Root;0; -P;-12.33
+Maize_Root;0; -P;-11.95
+Maize_Root;0; -Fe;-12.56
+Maize_Root;0; -Fe;-12.07
+Maize_Root;0; -Fe;-12.49
+Maize_Root;0; -Fe;-12.3
+Maize_Root;0; -Fe;-13.19
+Maize_Root;0; -Fe;-12.25
+Maize_Root;0; -Fe;-12.52
+Maize_Root;0; -P/-Fe;-12.48
+Maize_Root;0; -P/-Fe;-12.45
+Maize_Root;0; -P/-Fe;-11.8
+Maize_Root;0; -P/-Fe;-12.15
+Maize_Root;0; -P/-Fe;-12.71
+Maize_Root;0; -P/-Fe;-11.93
+Maize_Root;0; -P/-Fe;-12.2
+Maize_Root;2;C;-14.38
+Maize_Root;2;C;-13.18
+Maize_Root;2;C;-12.35
+Maize_Root;2;C;-13.15
+Maize_Root;2;C;-13.63
+Maize_Root;2;C;-14.11
+Maize_Root;2;C;-13.22
+Maize_Root;2; -P;-12.91
+Maize_Root;2; -P;-12.63
+Maize_Root;2; -P;-14.64
+Maize_Root;2; -P;-12.38
+Maize_Root;2; -P;-13.18
+Maize_Root;2; -P;-13.39
+Maize_Root;2; -P;-13.39
+Maize_Root;2; -Fe;-13.24
+Maize_Root;2; -Fe;-14.03
+Maize_Root;2; -Fe;-12.84
+Maize_Root;2; -Fe;-13.42
+Maize_Root;2; -Fe;-14.74
+Maize_Root;2; -Fe;-12.97
+Maize_Root;2; -Fe;-12.78
+Maize_Root;2; -P/-Fe;-15.21
+Maize_Root;2; -P/-Fe;-13.31
+Maize_Root;2; -P/-Fe;-13.74
+Maize_Root;2; -P/-Fe;-13.96
+Maize_Root;2; -P/-Fe;-13.02
+Maize_Root;2; -P/-Fe;-13.14
+Maize_Root;2; -P/-Fe;-13.58
+Maize_Root;4;C;-14.22
+Maize_Root;4;C;-12.41
+Maize_Root;4;C;-13.67
+Maize_Root;4;C;-13.12
+Maize_Root;4;C;-14.14
+Maize_Root;4;C;-13.78
+Maize_Root;4;C;-13.74
+Maize_Root;4; -P;-13.91
+Maize_Root;4; -P;-13.35
+Maize_Root;4; -P;-12.14
+Maize_Root;4; -P;-13.54
+Maize_Root;4; -P;-13.97
+Maize_Root;4; -P;-12.14
+Maize_Root;4; -P;-13.92
+Maize_Root;4; -Fe;-14.06
+Maize_Root;4; -Fe;-13.93
+Maize_Root;4; -Fe;-14.66
+Maize_Root;4; -Fe;-14.02
+Maize_Root;4; -Fe;-12.54
+Maize_Root;4; -Fe;-14.25
+Maize_Root;4; -Fe;-11.99
+Maize_Root;4; -P/-Fe;-13.68
+Maize_Root;4; -P/-Fe;-13.73
+Maize_Root;4; -P/-Fe;-14.08
+Maize_Root;4; -P/-Fe;-14.7
+Maize_Root;4; -P/-Fe;-13.61
+Maize_Root;4; -P/-Fe;-14.21
+Maize_Root;4; -P/-Fe;-13.19
+Maize_Root;7;C;-15.22
+Maize_Root;7;C;-15.39
+Maize_Root;7;C;-14.14
+Maize_Root;7;C;-14.13
+Maize_Root;7;C;-14.24
+Maize_Root;7;C;-15.3
+Maize_Root;7;C;-13.75
+Maize_Root;7; -P;-14.6
+Maize_Root;7; -P;-14.86
+Maize_Root;7; -P;-15.16
+Maize_Root;7; -P;-14.86
+Maize_Root;7; -P;-15.32
+Maize_Root;7; -P;-15.59
+Maize_Root;7; -P;-13.81
+Maize_Root;7; -Fe;-14.57
+Maize_Root;7; -Fe;-14.37
+Maize_Root;7; -Fe;-14.53
+Maize_Root;7; -Fe;-13.24
+Maize_Root;7; -Fe;-14.76
+Maize_Root;7; -Fe;-15.07
+Maize_Root;7; -Fe;-14.75
+Maize_Root;7; -P/-Fe;-15.35
+Maize_Root;7; -P/-Fe;-13.63
+Maize_Root;7; -P/-Fe;-14.53
+Maize_Root;7; -P/-Fe;-14.55
+Maize_Root;7; -P/-Fe;-15.31
+Maize_Root;7; -P/-Fe;-15.91
+Maize_Root;7; -P/-Fe;-14.52
+Maize_Root;9;C;-16.45
+Maize_Root;9;C;-15.67
+Maize_Root;9;C;-15.19
+Maize_Root;9;C;-15.53
+Maize_Root;9;C;-15.64
+Maize_Root;9;C;-15.3
+Maize_Root;9;C;-15.84
+Maize_Root;9; -P;-15.76
+Maize_Root;9; -P;-15.76
+Maize_Root;9; -P;-16.24
+Maize_Root;9; -P;-15.83
+Maize_Root;9; -P;-15.84
+Maize_Root;9; -P;-15.68
+Maize_Root;9; -P;-15.25
+Maize_Root;9; -Fe;-14.94
+Maize_Root;9; -Fe;-16
+Maize_Root;9; -Fe;-14.76
+Maize_Root;9; -Fe;-15.34
+Maize_Root;9; -Fe;-15.08
+Maize_Root;9; -Fe;-15
+Maize_Root;9; -Fe;-15.72
+Maize_Root;9; -P/-Fe;-16.03
+Maize_Root;9; -P/-Fe;-15.53
+Maize_Root;9; -P/-Fe;-15.29
+Maize_Root;9; -P/-Fe;-15.9
+Maize_Root;9; -P/-Fe;-15.26
+Maize_Root;9; -P/-Fe;-13.77
+Maize_Root;9; -P/-Fe;-15.18
+Maize_Root;11;C;-15.95
+Maize_Root;11;C;-16.03
+Maize_Root;11;C;-15.31
+Maize_Root;11;C;-15.78
+Maize_Root;11;C;-15.96
+Maize_Root;11;C;-16.44
+Maize_Root;11;C;-16.46
+Maize_Root;11; -P;-15.56
+Maize_Root;11; -P;-16.32
+Maize_Root;11; -P;-14.49
+Maize_Root;11; -P;-15.55
+Maize_Root;11; -P;-15.3
+Maize_Root;11; -P;-15.2
+Maize_Root;11; -P;-16.36
+Maize_Root;11; -Fe;-15.35
+Maize_Root;11; -Fe;-13.03
+Maize_Root;11; -Fe;-15.63
+Maize_Root;11; -Fe;-14.33
+Maize_Root;11; -Fe;-15.5
+Maize_Root;11; -Fe;-15.76
+Maize_Root;11; -Fe;-16.78
+Maize_Root;11; -P/-Fe;-15.42
+Maize_Root;11; -P/-Fe;-15.34
+Maize_Root;11; -P/-Fe;-15.95
+Maize_Root;11; -P/-Fe;-15.91
+Maize_Root;11; -P/-Fe;-14.83
+Maize_Root;11; -P/-Fe;-15.86
+Maize_Root;11; -P/-Fe;-14.29
+Maize_Root;14;C;-16.51
+Maize_Root;14;C;-15.83
+Maize_Root;14;C;-16.6
+Maize_Root;14;C;-16.27
+Maize_Root;14;C;-15.99
+Maize_Root;14;C;-16.16
+Maize_Root;14;C;-15.89
+Maize_Root;14; -P;-16.48
+Maize_Root;14; -P;-15.46
+Maize_Root;14; -P;-15.47
+Maize_Root;14; -P;-16.23
+Maize_Root;14; -P;-16.2
+Maize_Root;14; -P;-16.21
+Maize_Root;14; -P;-15.85
+Maize_Root;14; -Fe;-16.05
+Maize_Root;14; -Fe;-15.97
+Maize_Root;14; -Fe;-16.49
+Maize_Root;14; -Fe;-16.64
+Maize_Root;14; -Fe;-15.99
+Maize_Root;14; -Fe;-17.01
+Maize_Root;14; -Fe;-16.73
+Maize_Root;14; -P/-Fe;-16.64
+Maize_Root;14; -P/-Fe;-16.74
+Maize_Root;14; -P/-Fe;-16.6
+Maize_Root;14; -P/-Fe;-16.4
+Maize_Root;14; -P/-Fe;-16.78
+Maize_Root;14; -P/-Fe;-17.08
+Maize_Root;14; -P/-Fe;-16.93
+Maize_Shoot;0;C;-12.88
+Maize_Shoot;0;C;-12.31
+Maize_Shoot;0;C;-13.91
+Maize_Shoot;0;C;-13.25
+Maize_Shoot;0;C;-13.33
+Maize_Shoot;0;C;-13.81
+Maize_Shoot;0;C;-14.45
+Maize_Shoot;0; -P;-14.83
+Maize_Shoot;0; -P;-13.75
+Maize_Shoot;0; -P;-13.47
+Maize_Shoot;0; -P;-13.12
+Maize_Shoot;0; -P;-13.94
+Maize_Shoot;0; -P;-13.49
+Maize_Shoot;0; -P;-12.3
+Maize_Shoot;0; -Fe;-12.95
+Maize_Shoot;0; -Fe;-13.99
+Maize_Shoot;0; -Fe;-13.3
+Maize_Shoot;0; -Fe;-13.63
+Maize_Shoot;0; -Fe;-13.68
+Maize_Shoot;0; -Fe;-13.49
+Maize_Shoot;0; -Fe;-11.75
+Maize_Shoot;0; -P/-Fe;-12.67
+Maize_Shoot;0; -P/-Fe;-13.33
+Maize_Shoot;0; -P/-Fe;-12.42
+Maize_Shoot;0; -P/-Fe;-13.14
+Maize_Shoot;0; -P/-Fe;-14.1
+Maize_Shoot;0; -P/-Fe;-13.3
+Maize_Shoot;0; -P/-Fe;-11.3
+Maize_Shoot;2;C;-16.11
+Maize_Shoot;2;C;-15.74
+Maize_Shoot;2;C;-15.55
+Maize_Shoot;2;C;-16.13
+Maize_Shoot;2;C;-16.42
+Maize_Shoot;2;C;-16.65
+Maize_Shoot;2;C;-15.17
+Maize_Shoot;2; -P;-15.54
+Maize_Shoot;2; -P;-15.59
+Maize_Shoot;2; -P;-17.05
+Maize_Shoot;2; -P;-15.61
+Maize_Shoot;2; -P;-15.2
+Maize_Shoot;2; -P;-16.08
+Maize_Shoot;2; -P;-15.68
+Maize_Shoot;2; -Fe;-15.92
+Maize_Shoot;2; -Fe;-16.19
+Maize_Shoot;2; -Fe;-15.55
+Maize_Shoot;2; -Fe;-15.83
+Maize_Shoot;2; -Fe;-16.53
+Maize_Shoot;2; -Fe;-15.62
+Maize_Shoot;2; -Fe;-16.16
+Maize_Shoot;2; -P/-Fe;-16.84
+Maize_Shoot;2; -P/-Fe;-15.34
+Maize_Shoot;2; -P/-Fe;-15.94
+Maize_Shoot;2; -P/-Fe;-15.55
+Maize_Shoot;2; -P/-Fe;-15.4
+Maize_Shoot;2; -P/-Fe;-14.94
+Maize_Shoot;2; -P/-Fe;-15.92
+Maize_Shoot;4;C;-16.68
+Maize_Shoot;4;C;-16.04
+Maize_Shoot;4;C;-16.03
+Maize_Shoot;4;C;-16.37
+Maize_Shoot;4;C;-17.08
+Maize_Shoot;4;C;-15.49
+Maize_Shoot;4;C;-16.66
+Maize_Shoot;4; -P;-16.48
+Maize_Shoot;4; -P;-16.13
+Maize_Shoot;4; -P;-16.3
+Maize_Shoot;4; -P;-16.16
+Maize_Shoot;4; -P;-16.61
+Maize_Shoot;4; -P;-15.6
+Maize_Shoot;4; -P;-16.13
+Maize_Shoot;4; -Fe;-14.95
+Maize_Shoot;4; -Fe;-16.16
+Maize_Shoot;4; -Fe;-15.67
+Maize_Shoot;4; -Fe;-15.58
+Maize_Shoot;4; -Fe;-14.61
+Maize_Shoot;4; -Fe;-15.59
+Maize_Shoot;4; -Fe;-14.16
+Maize_Shoot;4; -P/-Fe;-15.25
+Maize_Shoot;4; -P/-Fe;-15.89
+Maize_Shoot;4; -P/-Fe;-16.19
+Maize_Shoot;4; -P/-Fe;-16.34
+Maize_Shoot;4; -P/-Fe;-15.45
+Maize_Shoot;4; -P/-Fe;-15.18
+Maize_Shoot;4; -P/-Fe;-15.75
+Maize_Shoot;7;C;-17.02
+Maize_Shoot;7;C;-17.44
+Maize_Shoot;7;C;-16.5
+Maize_Shoot;7;C;-17.03
+Maize_Shoot;7;C;-16.4
+Maize_Shoot;7;C;-16.83
+Maize_Shoot;7;C;-16.72
+Maize_Shoot;7; -P;-16.77
+Maize_Shoot;7; -P;-15.82
+Maize_Shoot;7; -P;-17.21
+Maize_Shoot;7; -P;-16.64
+Maize_Shoot;7; -P;-17.61
+Maize_Shoot;7; -P;-17.66
+Maize_Shoot;7; -P;-16.33
+Maize_Shoot;7; -Fe;-16.11
+Maize_Shoot;7; -Fe;-16.71
+Maize_Shoot;7; -Fe;-16.27
+Maize_Shoot;7; -Fe;-15.43
+Maize_Shoot;7; -Fe;-16.06
+Maize_Shoot;7; -Fe;-16.03
+Maize_Shoot;7; -Fe;-16.2
+Maize_Shoot;7; -P/-Fe;-17.11
+Maize_Shoot;7; -P/-Fe;-15.37
+Maize_Shoot;7; -P/-Fe;-15.61
+Maize_Shoot;7; -P/-Fe;-16.02
+Maize_Shoot;7; -P/-Fe;-17.56
+Maize_Shoot;7; -P/-Fe;-16.65
+Maize_Shoot;7; -P/-Fe;-16.12
+Maize_Shoot;9;C;-18.19
+Maize_Shoot;9;C;-17.96
+Maize_Shoot;9;C;-17.64
+Maize_Shoot;9;C;-17.27
+Maize_Shoot;9;C;-17.51
+Maize_Shoot;9;C;-17.83
+Maize_Shoot;9;C;-18.04
+Maize_Shoot;9; -P;-17.73
+Maize_Shoot;9; -P;-17.9
+Maize_Shoot;9; -P;-17.89
+Maize_Shoot;9; -P;-17.98
+Maize_Shoot;9; -P;-18.15
+Maize_Shoot;9; -P;-17.88
+Maize_Shoot;9; -P;-17.65
+Maize_Shoot;9; -Fe;-16.97
+Maize_Shoot;9; -Fe;-16.82
+Maize_Shoot;9; -Fe;-16.26
+Maize_Shoot;9; -Fe;-16.5
+Maize_Shoot;9; -Fe;-16.38
+Maize_Shoot;9; -Fe;-16.81
+Maize_Shoot;9; -Fe;-16.55
+Maize_Shoot;9; -P/-Fe;-17.43
+Maize_Shoot;9; -P/-Fe;-17.17
+Maize_Shoot;9; -P/-Fe;-16.68
+Maize_Shoot;9; -P/-Fe;-17.19
+Maize_Shoot;9; -P/-Fe;-17.28
+Maize_Shoot;9; -P/-Fe;-15.87
+Maize_Shoot;9; -P/-Fe;-16.97
+Maize_Shoot;11;C;-18.09
+Maize_Shoot;11;C;-17.85
+Maize_Shoot;11;C;-17.93
+Maize_Shoot;11;C;-17.13
+Maize_Shoot;11;C;-17.61
+Maize_Shoot;11;C;-18.01
+Maize_Shoot;11;C;-18.39
+Maize_Shoot;11; -P;-17.55
+Maize_Shoot;11; -P;-17.08
+Maize_Shoot;11; -P;-17.1
+Maize_Shoot;11; -P;-17.7
+Maize_Shoot;11; -P;-17.56
+Maize_Shoot;11; -P;-17.53
+Maize_Shoot;11; -P;-17.7
+Maize_Shoot;11; -Fe;-16.28
+Maize_Shoot;11; -Fe;-15.77
+Maize_Shoot;11; -Fe;-16.43
+Maize_Shoot;11; -Fe;-16.05
+Maize_Shoot;11; -Fe;-16.16
+Maize_Shoot;11; -Fe;-16.38
+Maize_Shoot;11; -Fe;-17.33
+Maize_Shoot;11; -P/-Fe;-17.44
+Maize_Shoot;11; -P/-Fe;-17.3
+Maize_Shoot;11; -P/-Fe;-17.42
+Maize_Shoot;11; -P/-Fe;-16.56
+Maize_Shoot;11; -P/-Fe;-17.08
+Maize_Shoot;11; -P/-Fe;-17.53
+Maize_Shoot;11; -P/-Fe;-17.08
+Maize_Shoot;14;C;-17.87
+Maize_Shoot;14;C;-17.84
+Maize_Shoot;14;C;-17.9
+Maize_Shoot;14;C;-18.16
+Maize_Shoot;14;C;-18.16
+Maize_Shoot;14;C;-17.45
+Maize_Shoot;14;C;-17.61
+Maize_Shoot;14; -P;-18.06
+Maize_Shoot;14; -P;-17.23
+Maize_Shoot;14; -P;-18.08
+Maize_Shoot;14; -P;-17.94
+Maize_Shoot;14; -P;-18.15
+Maize_Shoot;14; -P;-18.32
+Maize_Shoot;14; -P;-17.95
+Maize_Shoot;14; -Fe;-16.95
+Maize_Shoot;14; -Fe;-17.22
+Maize_Shoot;14; -Fe;-17.2
+Maize_Shoot;14; -Fe;-17.28
+Maize_Shoot;14; -Fe;-16.74
+Maize_Shoot;14; -Fe;-17.37
+Maize_Shoot;14; -Fe;-17.29
+Maize_Shoot;14; -P/-Fe;-17.3
+Maize_Shoot;14; -P/-Fe;-17.18
+Maize_Shoot;14; -P/-Fe;-17.47
+Maize_Shoot;14; -P/-Fe;-17.4
+Maize_Shoot;14; -P/-Fe;-17
+Maize_Shoot;14; -P/-Fe;-17.26
+Maize_Shoot;14; -P/-Fe;-17.58
+Barley_Root;0;C;-26.81
+Barley_Root;0;C;-27.81
+Barley_Root;0;C;-27.19
+Barley_Root;0;C;-27.38
+Barley_Root;0;C;-27.69
+Barley_Root;0;C;-27.01
+Barley_Root;0;C;-27.7
+Barley_Root;0; -P;-27
+Barley_Root;0; -P;-26.84
+Barley_Root;0; -P;-28.04
+Barley_Root;0; -P;-27.85
+Barley_Root;0; -P;-28.79
+Barley_Root;0; -P;-28.66
+Barley_Root;0; -P;-27.64
+Barley_Root;0; -Fe;-26.52
+Barley_Root;0; -Fe;-29
+Barley_Root;0; -Fe;-29.39
+Barley_Root;0; -Fe;-27.03
+Barley_Root;0; -Fe;-27.3
+Barley_Root;0; -Fe;-27.32
+Barley_Root;0; -Fe;-27.44
+Barley_Root;0; -P/-Fe;-27.97
+Barley_Root;0; -P/-Fe;-26.32
+Barley_Root;0; -P/-Fe;-27.45
+Barley_Root;0; -P/-Fe;-28.39
+Barley_Root;0; -P/-Fe;-26.62
+Barley_Root;0; -P/-Fe;-27.88
+Barley_Root;0; -P/-Fe;-27.78
+Barley_Root;2;C;-29.07
+Barley_Root;2;C;-29.19
+Barley_Root;2;C;-31.41
+Barley_Root;2;C;-27.73
+Barley_Root;2;C;-27.62
+Barley_Root;2;C;-28.22
+Barley_Root;2;C;-27.92
+Barley_Root;2; -P;-30.47
+Barley_Root;2; -P;-28.99
+Barley_Root;2; -P;-29.86
+Barley_Root;2; -P;-30.31
+Barley_Root;2; -P;-30.19
+Barley_Root;2; -P;-30.34
+Barley_Root;2; -P;-28.72
+Barley_Root;2; -Fe;-28.5
+Barley_Root;2; -Fe;-27.5
+Barley_Root;2; -Fe;-29.81
+Barley_Root;2; -Fe;-28
+Barley_Root;2; -Fe;-28.11
+Barley_Root;2; -Fe;-29.07
+Barley_Root;2; -Fe;-30.49
+Barley_Root;2; -P/-Fe;-30.92
+Barley_Root;2; -P/-Fe;-31.28
+Barley_Root;2; -P/-Fe;-32.06
+Barley_Root;2; -P/-Fe;-27.86
+Barley_Root;2; -P/-Fe;-31.4
+Barley_Root;2; -P/-Fe;-31.84
+Barley_Root;2; -P/-Fe;-30.54
+Barley_Root;4;C;-33.79
+Barley_Root;4;C;-33.43
+Barley_Root;4;C;-31.19
+Barley_Root;4;C;-30.77
+Barley_Root;4;C;-31.44
+Barley_Root;4;C;-29.71
+Barley_Root;4;C;-30.2
+Barley_Root;4; -P;-32.9
+Barley_Root;4; -P;-34.17
+Barley_Root;4; -P;-33.65
+Barley_Root;4; -P;-32.42
+Barley_Root;4; -P;-31.59
+Barley_Root;4; -P;-32.54
+Barley_Root;4; -P;-33.82
+Barley_Root;4; -Fe;-33.68
+Barley_Root;4; -Fe;-31.49
+Barley_Root;4; -Fe;-29.53
+Barley_Root;4; -Fe;-31.58
+Barley_Root;4; -Fe;-31.39
+Barley_Root;4; -Fe;-32.12
+Barley_Root;4; -Fe;-32.1
+Barley_Root;4; -P/-Fe;-30.58
+Barley_Root;4; -P/-Fe;-32.64
+Barley_Root;4; -P/-Fe;-33.47
+Barley_Root;4; -P/-Fe;-33.83
+Barley_Root;4; -P/-Fe;-34.12
+Barley_Root;4; -P/-Fe;-30.27
+Barley_Root;4; -P/-Fe;-32.17
+Barley_Root;7;C;-34.62
+Barley_Root;7;C;-33.82
+Barley_Root;7;C;-32.12
+Barley_Root;7;C;-34.72
+Barley_Root;7;C;-34.42
+Barley_Root;7;C;-33.62
+Barley_Root;7;C;-34.69
+Barley_Root;7; -P;-34.68
+Barley_Root;7; -P;-35.63
+Barley_Root;7; -P;-35.65
+Barley_Root;7; -P;-33.35
+Barley_Root;7; -P;-35.32
+Barley_Root;7; -P;-34.66
+Barley_Root;7; -P;-33.28
+Barley_Root;7; -Fe;-35.2
+Barley_Root;7; -Fe;-34.1
+Barley_Root;7; -Fe;-30.21
+Barley_Root;7; -Fe;-34.93
+Barley_Root;7; -Fe;-31.8
+Barley_Root;7; -Fe;-34.02
+Barley_Root;7; -Fe;-32.98
+Barley_Root;7; -P/-Fe;-34.97
+Barley_Root;7; -P/-Fe;-32.97
+Barley_Root;7; -P/-Fe;-35.78
+Barley_Root;7; -P/-Fe;-35.73
+Barley_Root;7; -P/-Fe;-34.95
+Barley_Root;7; -P/-Fe;-35.37
+Barley_Root;7; -P/-Fe;-36.55
+Barley_Root;9;C;-33.94
+Barley_Root;9;C;-36.29
+Barley_Root;9;C;-34.48
+Barley_Root;9;C;-35.53
+Barley_Root;9;C;-35.47
+Barley_Root;9;C;-34.95
+Barley_Root;9;C;-32.6
+Barley_Root;9; -P;-38.05
+Barley_Root;9; -P;-34.53
+Barley_Root;9; -P;-34.65
+Barley_Root;9; -P;-36.22
+Barley_Root;9; -P;-32.78
+Barley_Root;9; -P;-34.59
+Barley_Root;9; -P;-35.45
+Barley_Root;9; -Fe;-34.62
+Barley_Root;9; -Fe;-33.76
+Barley_Root;9; -Fe;-35.51
+Barley_Root;9; -Fe;-34.72
+Barley_Root;9; -Fe;-36.57
+Barley_Root;9; -Fe;-36.88
+Barley_Root;9; -Fe;-32.43
+Barley_Root;9; -P/-Fe;-35.75
+Barley_Root;9; -P/-Fe;-36.94
+Barley_Root;9; -P/-Fe;-36.82
+Barley_Root;9; -P/-Fe;-34.51
+Barley_Root;9; -P/-Fe;-34.67
+Barley_Root;9; -P/-Fe;-34.92
+Barley_Root;9; -P/-Fe;-37.43
+Barley_Root;11;C;-33.72
+Barley_Root;11;C;-35.66
+Barley_Root;11;C;-36.08
+Barley_Root;11;C;-34.75
+Barley_Root;11;C;-35.27
+Barley_Root;11;C;-33.81
+Barley_Root;11;C;-34.83
+Barley_Root;11; -P;-37.01
+Barley_Root;11; -P;-35.71
+Barley_Root;11; -P;-34.78
+Barley_Root;11; -P;-36.27
+Barley_Root;11; -P;-35.49
+Barley_Root;11; -P;-35.9
+Barley_Root;11; -P;-36.09
+Barley_Root;11; -Fe;-34.05
+Barley_Root;11; -Fe;-34.78
+Barley_Root;11; -Fe;-34.64
+Barley_Root;11; -Fe;-34.51
+Barley_Root;11; -Fe;-34.77
+Barley_Root;11; -Fe;-33.16
+Barley_Root;11; -Fe;-34.23
+Barley_Root;11; -P/-Fe;-36.51
+Barley_Root;11; -P/-Fe;-35.96
+Barley_Root;11; -P/-Fe;-33.8
+Barley_Root;11; -P/-Fe;-37.24
+Barley_Root;11; -P/-Fe;-36.41
+Barley_Root;11; -P/-Fe;-35.52
+Barley_Root;11; -P/-Fe;-35.94
+Barley_Root;14;C;-35.31
+Barley_Root;14;C;-35.99
+Barley_Root;14;C;-36.89
+Barley_Root;14;C;-37.63
+Barley_Root;14;C;-37.02
+Barley_Root;14;C;-37.21
+Barley_Root;14;C;-35.8
+Barley_Root;14; -P;-36.23
+Barley_Root;14; -P;-37.26
+Barley_Root;14; -P;-36.65
+Barley_Root;14; -P;-38.99
+Barley_Root;14; -P;-38.03
+Barley_Root;14; -P;-36.76
+Barley_Root;14; -P;-37.25
+Barley_Root;14; -Fe;-34.68
+Barley_Root;14; -Fe;-33.64
+Barley_Root;14; -Fe;-36.59
+Barley_Root;14; -Fe;-36.66
+Barley_Root;14; -Fe;-35.12
+Barley_Root;14; -Fe;-36.1
+Barley_Root;14; -Fe;-37.45
+Barley_Root;14; -P/-Fe;-37.72
+Barley_Root;14; -P/-Fe;-37.95
+Barley_Root;14; -P/-Fe;-37.95
+Barley_Root;14; -P/-Fe;-37.86
+Barley_Root;14; -P/-Fe;-37.63
+Barley_Root;14; -P/-Fe;-37.68
+Barley_Root;14; -P/-Fe;-36.95
+Barley_Shoot;0;C;-30.61
+Barley_Shoot;0;C;-31.28
+Barley_Shoot;0;C;-30.76
+Barley_Shoot;0;C;-31.51
+Barley_Shoot;0;C;-32.16
+Barley_Shoot;0;C;-30.87
+Barley_Shoot;0;C;-30.96
+Barley_Shoot;0; -P;-31.08
+Barley_Shoot;0; -P;-29.78
+Barley_Shoot;0; -P;-30.74
+Barley_Shoot;0; -P;-31.48
+Barley_Shoot;0; -P;-31.95
+Barley_Shoot;0; -P;-31.53
+Barley_Shoot;0; -P;-30.82
+Barley_Shoot;0; -Fe;-30.31
+Barley_Shoot;0; -Fe;-31.9
+Barley_Shoot;0; -Fe;-31.79
+Barley_Shoot;0; -Fe;-30.05
+Barley_Shoot;0; -Fe;-30.5
+Barley_Shoot;0; -Fe;-30.64
+Barley_Shoot;0; -Fe;-31.08
+Barley_Shoot;0; -P/-Fe;-31.33
+Barley_Shoot;0; -P/-Fe;-30.04
+Barley_Shoot;0; -P/-Fe;-30.93
+Barley_Shoot;0; -P/-Fe;-32.14
+Barley_Shoot;0; -P/-Fe;-30.38
+Barley_Shoot;0; -P/-Fe;-31.62
+Barley_Shoot;0; -P/-Fe;-31.01
+Barley_Shoot;2;C;-32.62
+Barley_Shoot;2;C;-34.18
+Barley_Shoot;2;C;-34.71
+Barley_Shoot;2;C;-32.23
+Barley_Shoot;2;C;-31.59
+Barley_Shoot;2;C;-32.06
+Barley_Shoot;2;C;-31.75
+Barley_Shoot;2; -P;-33.11
+Barley_Shoot;2; -P;-32.76
+Barley_Shoot;2; -P;-35.03
+Barley_Shoot;2; -P;-33.93
+Barley_Shoot;2; -P;-33.42
+Barley_Shoot;2; -P;-33.33
+Barley_Shoot;2; -P;-33.36
+Barley_Shoot;2; -Fe;-33.42
+Barley_Shoot;2; -Fe;-33.11
+Barley_Shoot;2; -Fe;-33.75
+Barley_Shoot;2; -Fe;-32.29
+Barley_Shoot;2; -Fe;-32.97
+Barley_Shoot;2; -Fe;-33.29
+Barley_Shoot;2; -Fe;-34.94
+Barley_Shoot;2; -P/-Fe;-33.31
+Barley_Shoot;2; -P/-Fe;-34.57
+Barley_Shoot;2; -P/-Fe;-33.89
+Barley_Shoot;2; -P/-Fe;-32.05
+Barley_Shoot;2; -P/-Fe;-33.29
+Barley_Shoot;2; -P/-Fe;-33.84
+Barley_Shoot;2; -P/-Fe;-34.09
+Barley_Shoot;4;C;-36.24
+Barley_Shoot;4;C;-36.05
+Barley_Shoot;4;C;-35.2
+Barley_Shoot;4;C;-35.52
+Barley_Shoot;4;C;-35.56
+Barley_Shoot;4;C;-34.65
+Barley_Shoot;4;C;-35.39
+Barley_Shoot;4; -P;-35.26
+Barley_Shoot;4; -P;-36.05
+Barley_Shoot;4; -P;-35.41
+Barley_Shoot;4; -P;-35.29
+Barley_Shoot;4; -P;-35.43
+Barley_Shoot;4; -P;-35.63
+Barley_Shoot;4; -P;-34.8
+Barley_Shoot;4; -Fe;-36.12
+Barley_Shoot;4; -Fe;-35.7
+Barley_Shoot;4; -Fe;-34.14
+Barley_Shoot;4; -Fe;-35.62
+Barley_Shoot;4; -Fe;-35.55
+Barley_Shoot;4; -Fe;-35.75
+Barley_Shoot;4; -Fe;-34.43
+Barley_Shoot;4; -P/-Fe;-35.81
+Barley_Shoot;4; -P/-Fe;-35.11
+Barley_Shoot;4; -P/-Fe;-35.94
+Barley_Shoot;4; -P/-Fe;-36.41
+Barley_Shoot;4; -P/-Fe;-35.41
+Barley_Shoot;4; -P/-Fe;-34.78
+Barley_Shoot;4; -P/-Fe;-36.26
+Barley_Shoot;7;C;-37.24
+Barley_Shoot;7;C;-36.99
+Barley_Shoot;7;C;-36.83
+Barley_Shoot;7;C;-36.97
+Barley_Shoot;7;C;-38.21
+Barley_Shoot;7;C;-36.9
+Barley_Shoot;7;C;-37.35
+Barley_Shoot;7; -P;-37.7
+Barley_Shoot;7; -P;-37.08
+Barley_Shoot;7; -P;-37.82
+Barley_Shoot;7; -P;-37.56
+Barley_Shoot;7; -P;-36.91
+Barley_Shoot;7; -P;-37.67
+Barley_Shoot;7; -P;-37.34
+Barley_Shoot;7; -Fe;-38.16
+Barley_Shoot;7; -Fe;-37.36
+Barley_Shoot;7; -Fe;-36.21
+Barley_Shoot;7; -Fe;-37.27
+Barley_Shoot;7; -Fe;-36.93
+Barley_Shoot;7; -Fe;-37.44
+Barley_Shoot;7; -Fe;-36.76
+Barley_Shoot;7; -P/-Fe;-37.67
+Barley_Shoot;7; -P/-Fe;-37.03
+Barley_Shoot;7; -P/-Fe;-38.19
+Barley_Shoot;7; -P/-Fe;-37.38
+Barley_Shoot;7; -P/-Fe;-37.23
+Barley_Shoot;7; -P/-Fe;-37.83
+Barley_Shoot;7; -P/-Fe;-38.07
+Barley_Shoot;9;C;-37.66
+Barley_Shoot;9;C;-37.91
+Barley_Shoot;9;C;-37.56
+Barley_Shoot;9;C;-37.92
+Barley_Shoot;9;C;-38.89
+Barley_Shoot;9;C;-38.42
+Barley_Shoot;9;C;-38.43
+Barley_Shoot;9; -P;-38.48
+Barley_Shoot;9; -P;-37.63
+Barley_Shoot;9; -P;-38.3
+Barley_Shoot;9; -P;-38.56
+Barley_Shoot;9; -P;-38.22
+Barley_Shoot;9; -P;-38.1
+Barley_Shoot;9; -P;-37.8
+Barley_Shoot;9; -Fe;-36.92
+Barley_Shoot;9; -Fe;-37.96
+Barley_Shoot;9; -Fe;-37.8
+Barley_Shoot;9; -Fe;-38.08
+Barley_Shoot;9; -Fe;-37.92
+Barley_Shoot;9; -Fe;-38.35
+Barley_Shoot;9; -Fe;-38.54
+Barley_Shoot;9; -P/-Fe;-38.32
+Barley_Shoot;9; -P/-Fe;-38.43
+Barley_Shoot;9; -P/-Fe;-38.13
+Barley_Shoot;9; -P/-Fe;-38.06
+Barley_Shoot;9; -P/-Fe;-37.71
+Barley_Shoot;9; -P/-Fe;-38.12
+Barley_Shoot;9; -P/-Fe;-38.28
+Barley_Shoot;11;C;-38.02
+Barley_Shoot;11;C;-38.33
+Barley_Shoot;11;C;-38.26
+Barley_Shoot;11;C;-38.87
+Barley_Shoot;11;C;-37.98
+Barley_Shoot;11;C;-38.09
+Barley_Shoot;11;C;-38.11
+Barley_Shoot;11; -P;-38.48
+Barley_Shoot;11; -P;-39.03
+Barley_Shoot;11; -P;-39.06
+Barley_Shoot;11; -P;-38.92
+Barley_Shoot;11; -P;-38.25
+Barley_Shoot;11; -P;-38.41
+Barley_Shoot;11; -P;-38.01
+Barley_Shoot;11; -Fe;-36.98
+Barley_Shoot;11; -Fe;-38.46
+Barley_Shoot;11; -Fe;-38.91
+Barley_Shoot;11; -Fe;-38.09
+Barley_Shoot;11; -Fe;-38.13
+Barley_Shoot;11; -Fe;-38.42
+Barley_Shoot;11; -Fe;-38.46
+Barley_Shoot;11; -P/-Fe;-38.39
+Barley_Shoot;11; -P/-Fe;-38.69
+Barley_Shoot;11; -P/-Fe;-38.09
+Barley_Shoot;11; -P/-Fe;-38.8
+Barley_Shoot;11; -P/-Fe;-38.47
+Barley_Shoot;11; -P/-Fe;-38.29
+Barley_Shoot;11; -P/-Fe;-38.55
+Barley_Shoot;14;C;-39.12
+Barley_Shoot;14;C;-39.31
+Barley_Shoot;14;C;-39.69
+Barley_Shoot;14;C;-39.11
+Barley_Shoot;14;C;-38.77
+Barley_Shoot;14;C;-39.49
+Barley_Shoot;14;C;-39.81
+Barley_Shoot;14; -P;-39.18
+Barley_Shoot;14; -P;-38.95
+Barley_Shoot;14; -P;-39.15
+Barley_Shoot;14; -P;-39.01
+Barley_Shoot;14; -P;-39.17
+Barley_Shoot;14; -P;-39.15
+Barley_Shoot;14; -P;-39.11
+Barley_Shoot;14; -Fe;-39.13
+Barley_Shoot;14; -Fe;-39.11
+Barley_Shoot;14; -Fe;-39.45
+Barley_Shoot;14; -Fe;-39.22
+Barley_Shoot;14; -Fe;-39.08
+Barley_Shoot;14; -Fe;-39.54
+Barley_Shoot;14; -Fe;-39.68
+Barley_Shoot;14; -P/-Fe;-39.26
+Barley_Shoot;14; -P/-Fe;-39.32
+Barley_Shoot;14; -P/-Fe;-38.25
+Barley_Shoot;14; -P/-Fe;-39.22
+Barley_Shoot;14; -P/-Fe;-39.44
+Barley_Shoot;14; -P/-Fe;-39.42
+Barley_Shoot;14; -P/-Fe;-38.57
