@@ -23,8 +23,8 @@ table_1_sum<-table1 %>%
 Table_2_sum <- table_1_sum %>% drop_na(value)
 
 
-my_comparisons <-list(c("C","P"), c("C","Fe"), c("C","P/Fe"), c("P","Fe"), c("P","P/Fe"),c("Fe","P/Fe"))
-compare_means(value ~ variable, group.by =  "Species", data = Table_2_sum, method = "t.test") 
+#my_comparisons <-list(c("C","P"), c("C","Fe"), c("C","P/Fe"), c("P","Fe"), c("P","P/Fe"),c("Fe","P/Fe"))
+#compare_means(value ~ variable, group.by =  "Species", data = Table_2_sum, method = "t.test") 
 p<-ggplot(Table_2_sum, aes(x= variable, value, fill=variable)) + theme_bw() + geom_boxplot() +
   facet_wrap(~Species, scales="free") + ylab("Stomatal Conductance") + xlab("Treatments") + scale_fill_manual(values=c("white","brown","red", "black"))
 #p+stat_compare_means(comparisons = my_comparisons, label = "p.ajust",  method = "t.test", hide.ns = TRUE)+
