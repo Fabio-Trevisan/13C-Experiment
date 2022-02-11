@@ -56,4 +56,4 @@ f2 + facet_wrap(~Species_Tissue, scales="free", ncol = 2) +
   xlab("Time (Days)") 
 
 
-ggsave(filename = "13C_Scatter-lines_errorbars(bw).pdf", plot = last_plot(), dpi = 600, units = "cm", width = 60, height = 60, scale = 0.5)
+ggsave(filename = "13C_Scatter-lines_errorbars(bw).pdf", plot = last_plot(), dpi = 600, units = "cm", width = 70, height = 80, scale = 0.5)
