@@ -1,32 +1,28 @@
 library(readr)
 library(ggpubr)
-library(ggplot2)
-library(reshape2)
 library(tidyverse)
 library(plyr)
 library(dplyr)
 library(rstatix)
+library(purrr)
 
 #calculate means and errors in R 
 table <- read.csv("13C_IRMS_R_data.csv", sep=";",
                    header=T)
 
-Summary_table <- ddply(table, c("Treatment", "Time", "Species_Tissue"), summarise,
-                       N    = sum(!is.na(Value)),
-                       mean = mean(Value, na.rm=TRUE),
-                       sd   = sd(Value, na.rm=TRUE),
-                       se   = sd / sqrt(N))
-
+#non serve 
+#Summary_table <- ddply(table, c("Treatment", "Time", "Species_Tissue"), summarise,
+                       #N    = sum(!is.na(Value)),
+                       #mean = mean(Value, na.rm=TRUE),
+                       #sd   = sd(Value, na.rm=TRUE),
+                       #se   = sd / sqrt(N))
 
 #non serve 
 #my_comparisons <-list(c("C","-P"), c("C","-Fe"), c("C","-P/-Fe"), c("-P","-Fe"), c("-P","-P/-Fe"),c("-Fe","-P/-Fe"))
 #compare_means(Value ~ Treatment, group.by =  c("Time","Species_Tissue"), data = table, method = "t.test") 
 
 
-table$Time <- factor(table$Time)
-
-##creare Subsets according to Species_Tissue
-
+#creare Subsets according to Species_Tissue
 Tomato_Root <- subset(table, Species_Tissue == "Tomato_Root")
 head(Tomato_Root)
 Tomato_Shoot <- subset(table, Species_Tissue == "Tomato_Shoot")
@@ -44,14 +40,17 @@ head(Barley_Root)
 Barley_Shoot <- subset(table, Species_Tissue == "Barley_Shoot")
 head(Barley_Shoot)
 
+#transform variable to factor
+table$Time <- factor(table$Time)
+
 
 #Shapiro-Wilk normality check and/or qq-plot and/or density plot
+#for all single treatments
 SW_test <- table %>%
   group_by(Time, Treatment, Species_Tissue) %>%
   shapiro_test(Value)
 View(SW_test)
 write.table(SW_test, file = "ShapiroWilk_test_results.csv", quote = FALSE, sep = ";")
-
 
 #non serve 
 #density_plot <- ggdensity(Species_Tissue$Value, main = "Density plot 13C", xlab = "Delta 13C")
@@ -62,13 +61,13 @@ write.table(SW_test, file = "ShapiroWilk_test_results.csv", quote = FALSE, sep =
 #qq_plot
 
 
+
 #1way ANOVA (NOT WORKING)
 OneWay_Anova_Treatment <- lapply(split(table, list(table$Species_Tissue,table$Time)), 
                                  anova(lm(Value ~ Treatment, data = table)))
 
 
 #2way ANOVA
-library(purrr)
 
 ##Single Species_Tissue
 Tomato_Root$Time <- factor(Tomato_Root$Time)
@@ -78,11 +77,11 @@ TwoWay_Anova_tr <- aov(Value ~ Treatment * Time, data = Tomato_Root)
 TwoWay_Anova <- lapply(split(table, table$Species_Tissue), function(i){
   anova(lm(Value ~ Treatment * Time, data = i))
 })
-
 summary(TwoWay_Anova)
 
 
 # Tukey as post hoc test
+#work only on sigle anovas not on lapply list --> maybe try sapply/tapply
 TukeyHSD(TwoWay_Anova_tr)
 
 
@@ -102,7 +101,7 @@ shapiro.test(x = aov_residuals )
 
 
 
-#Kruskal Wallis 
+#Kruskal Wallis NOT WORKING
 ##Single Species_Tissue
 Tomato_Root$Time <- factor(Tomato_Root$Time)
 TwoWay_KW_tr <- kruskal.test(Value ~ Treatment * Time, data = Tomato_Root)
@@ -112,11 +111,8 @@ TwoWay_KW <- lapply(split(table, table$Species_Tissue), function(i){
   kruskal.test(lm(Value ~ Treatment * Time, data = i))
 })
 
+
 kruskal.test(Value ~ Treatment, data = table)
 #or
 kruskal_test(table, Value ~ Treatment)
-
-KW_test_time <- table %>%
-  group_by(Time, Species_Tissue) %>%
-  kruskal_test(table, Value ~ Treatment)
 
