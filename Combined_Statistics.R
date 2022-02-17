@@ -142,7 +142,11 @@ OneWay_Anova_Ti_cs <- lapply(split(Cucumber_Shoot, Cucumber_Shoot$Treatment), fu
 
 ##test
 OneWay_Anova_xx <- aov(Value ~ Treatment, data = Tomato_Root)
-summary(OneWay_Anova_xx)
+OneWay_Anova_Tr_tr["0"]
+
+OneWay_Anova_Tr_tr <- lapply(split(Tomato_Root, Tomato_Root$Time), function(i){ 
+  aov(Value ~ Treatment, data = i)
+})
 
 
 #2way ANOVA----
@@ -162,13 +166,19 @@ View(TwoWay_Anova[["Species_Tissue"]])
 write.table(TwoWay_Anova, file = "TwoWay_Anova_results.csv", quote = FALSE, sep = ";")
 
 
-# Tukey as post hoc test----
-#work only on sigle anovas not on lapply list
-TukeyHSD(OneWay_Anova_Tr_tr)
+# Tukey as post hoc test (NOT WORKING)----
+#work on lapply list, how to automatize??
 
-Tukey_test <- HSD.test(OneWay_Anova_xx, "Treatment")
-Tukey_test2 <- HSD.test(OneWay_Anova_Tr_tr["0"], "Treatment")
+Tukey_test <- HSD.test(OneWay_Anova_Tr_tr[["0"]], "Treatment")
+Tukey_test <- Tukey_test["groups"]
+write.table(Tukey_test, file = "Tukey_test.csv", quote = FALSE, sep = ";")
 
+
+
+#automatisation NOT WORKING
+cc <- lapply(OneWay_Anova_Tr_tr[[""]] ,function(i){ 
+  HSD.test(OneWay_Anova_Tr_tr[["i"]], "Treatment")
+})
 
 
 
@@ -185,6 +195,7 @@ aov_residuals <- residuals(object = TwoWay_Anova_tr)
 ## Run Shapiro-Wilk test
 shapiro.test(x = aov_residuals)
 shapiro.test(Tomato_Root)
+
 
 
 
