@@ -1,40 +1,4 @@
 $Tomato_Root
-$Tomato_Root$` -Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                     Time Residuals
-Sum of Squares  135.81836  29.49446
-Deg. of Freedom         1        47
-
-Residual standard error: 0.7921753
-Estimated effects may be unbalanced
-
-$Tomato_Root$` -P`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  35.27003  46.88108
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9987341
-Estimated effects may be unbalanced
-
-$Tomato_Root$` -P/-Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                   Time Residuals
-Sum of Squares  64.9806   63.4313
-Deg. of Freedom       1        47
-
-Residual standard error: 1.161724
-Estimated effects may be unbalanced
-
 $Tomato_Root$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -47,44 +11,44 @@ Deg. of Freedom         1        47
 Residual standard error: 1.095929
 Estimated effects may be unbalanced
 
+$Tomato_Root$Fe
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                     Time Residuals
+Sum of Squares  135.81836  29.49446
+Deg. of Freedom         1        47
+
+Residual standard error: 0.7921753
+Estimated effects may be unbalanced
+
+$Tomato_Root$P
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  35.27003  46.88108
+Deg. of Freedom        1        47
+
+Residual standard error: 0.9987341
+Estimated effects may be unbalanced
+
+$Tomato_Root$`P/Fe`
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                   Time Residuals
+Sum of Squares  64.9806   63.4313
+Deg. of Freedom       1        47
+
+Residual standard error: 1.161724
+Estimated effects may be unbalanced
+
 
 $Tomato_Shoot
-$Tomato_Shoot$` -Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  45.75977  29.95883
-Deg. of Freedom        1        47
-
-Residual standard error: 0.7983871
-Estimated effects may be unbalanced
-
-$Tomato_Shoot$` -P`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares   0.03159  39.49961
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9167427
-Estimated effects may be unbalanced
-
-$Tomato_Shoot$` -P/-Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  10.64345  52.43095
-Deg. of Freedom        1        47
-
-Residual standard error: 1.056197
-Estimated effects may be unbalanced
-
 $Tomato_Shoot$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -97,44 +61,44 @@ Deg. of Freedom        1        47
 Residual standard error: 1.096673
 Estimated effects may be unbalanced
 
+$Tomato_Shoot$Fe
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  45.75977  29.95883
+Deg. of Freedom        1        47
+
+Residual standard error: 0.7983871
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$P
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares   0.03159  39.49961
+Deg. of Freedom        1        47
+
+Residual standard error: 0.9167427
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`P/Fe`
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  10.64345  52.43095
+Deg. of Freedom        1        47
+
+Residual standard error: 1.056197
+Estimated effects may be unbalanced
+
 
 $Cucumber_Root
-$Cucumber_Root$` -Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                     Time Residuals
-Sum of Squares   0.822528 22.829484
-Deg. of Freedom         1        47
-
-Residual standard error: 0.696946
-Estimated effects may be unbalanced
-
-$Cucumber_Root$` -P`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  58.07541  83.96129
-Deg. of Freedom        1        47
-
-Residual standard error: 1.336567
-Estimated effects may be unbalanced
-
-$Cucumber_Root$` -P/-Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  35.26929  93.51456
-Deg. of Freedom        1        47
-
-Residual standard error: 1.410557
-Estimated effects may be unbalanced
-
 $Cucumber_Root$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -147,44 +111,44 @@ Deg. of Freedom        1        47
 Residual standard error: 0.9269465
 Estimated effects may be unbalanced
 
-
-$Cucumber_Shoot
-$Cucumber_Shoot$` -Fe`
+$Cucumber_Root$Fe
 Call:
    aov(formula = Value ~ Time, data = i)
 
 Terms:
                      Time Residuals
-Sum of Squares   4.767054 21.411767
+Sum of Squares   0.822528 22.829484
 Deg. of Freedom         1        47
 
-Residual standard error: 0.6749589
+Residual standard error: 0.696946
 Estimated effects may be unbalanced
 
-$Cucumber_Shoot$` -P`
+$Cucumber_Root$P
 Call:
    aov(formula = Value ~ Time, data = i)
 
 Terms:
                     Time Residuals
-Sum of Squares  31.34496  64.80963
+Sum of Squares  58.07541  83.96129
 Deg. of Freedom        1        47
 
-Residual standard error: 1.174278
+Residual standard error: 1.336567
 Estimated effects may be unbalanced
 
-$Cucumber_Shoot$` -P/-Fe`
+$Cucumber_Root$`P/Fe`
 Call:
    aov(formula = Value ~ Time, data = i)
 
 Terms:
                     Time Residuals
-Sum of Squares  10.07693  68.04932
+Sum of Squares  35.26929  93.51456
 Deg. of Freedom        1        47
 
-Residual standard error: 1.20327
+Residual standard error: 1.410557
 Estimated effects may be unbalanced
 
+
+$Cucumber_Shoot
 $Cucumber_Shoot$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -197,44 +161,44 @@ Deg. of Freedom         1        47
 Residual standard error: 0.7357753
 Estimated effects may be unbalanced
 
+$Cucumber_Shoot$Fe
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                     Time Residuals
+Sum of Squares   4.767054 21.411767
+Deg. of Freedom         1        47
+
+Residual standard error: 0.6749589
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$P
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  31.34496  64.80963
+Deg. of Freedom        1        47
+
+Residual standard error: 1.174278
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`P/Fe`
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  10.07693  68.04932
+Deg. of Freedom        1        47
+
+Residual standard error: 1.20327
+Estimated effects may be unbalanced
+
 
 $Maize_Root
-$Maize_Root$` -Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  72.40302  24.46862
-Deg. of Freedom        1        47
-
-Residual standard error: 0.7215323
-Estimated effects may be unbalanced
-
-$Maize_Root$` -P`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  78.36865  21.91795
-Deg. of Freedom        1        47
-
-Residual standard error: 0.6828905
-Estimated effects may be unbalanced
-
-$Maize_Root$` -P/-Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  83.32094  19.01956
-Deg. of Freedom        1        47
-
-Residual standard error: 0.6361379
-Estimated effects may be unbalanced
-
 $Maize_Root$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -247,44 +211,44 @@ Deg. of Freedom        1        47
 Residual standard error: 0.5816033
 Estimated effects may be unbalanced
 
+$Maize_Root$Fe
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  72.40302  24.46862
+Deg. of Freedom        1        47
+
+Residual standard error: 0.7215323
+Estimated effects may be unbalanced
+
+$Maize_Root$P
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  78.36865  21.91795
+Deg. of Freedom        1        47
+
+Residual standard error: 0.6828905
+Estimated effects may be unbalanced
+
+$Maize_Root$`P/Fe`
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  83.32094  19.01956
+Deg. of Freedom        1        47
+
+Residual standard error: 0.6361379
+Estimated effects may be unbalanced
+
 
 $Maize_Shoot
-$Maize_Shoot$` -Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  47.01037  30.71114
-Deg. of Freedom        1        47
-
-Residual standard error: 0.8083492
-Estimated effects may be unbalanced
-
-$Maize_Shoot$` -P`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  80.74893  29.78309
-Deg. of Freedom        1        47
-
-Residual standard error: 0.796042
-Estimated effects may be unbalanced
-
-$Maize_Shoot$` -P/-Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  73.84533  38.53912
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9055282
-Estimated effects may be unbalanced
-
 $Maize_Shoot$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -297,44 +261,44 @@ Deg. of Freedom        1        47
 Residual standard error: 0.8302384
 Estimated effects may be unbalanced
 
+$Maize_Shoot$Fe
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  47.01037  30.71114
+Deg. of Freedom        1        47
+
+Residual standard error: 0.8083492
+Estimated effects may be unbalanced
+
+$Maize_Shoot$P
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  80.74893  29.78309
+Deg. of Freedom        1        47
+
+Residual standard error: 0.796042
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`P/Fe`
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  73.84533  38.53912
+Deg. of Freedom        1        47
+
+Residual standard error: 0.9055282
+Estimated effects may be unbalanced
+
 
 $Barley_Root
-$Barley_Root$` -Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  366.3291  105.9932
-Deg. of Freedom        1        47
-
-Residual standard error: 1.501724
-Estimated effects may be unbalanced
-
-$Barley_Root$` -P`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  451.4489   80.7224
-Deg. of Freedom        1        47
-
-Residual standard error: 1.310534
-Estimated effects may be unbalanced
-
-$Barley_Root$` -P/-Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  484.9761   99.8681
-Deg. of Freedom        1        47
-
-Residual standard error: 1.457688
-Estimated effects may be unbalanced
-
 $Barley_Root$C
 Call:
    aov(formula = Value ~ Time, data = i)
@@ -347,9 +311,57 @@ Deg. of Freedom        1        47
 Residual standard error: 1.315914
 Estimated effects may be unbalanced
 
+$Barley_Root$Fe
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  366.3291  105.9932
+Deg. of Freedom        1        47
+
+Residual standard error: 1.501724
+Estimated effects may be unbalanced
+
+$Barley_Root$P
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  451.4489   80.7224
+Deg. of Freedom        1        47
+
+Residual standard error: 1.310534
+Estimated effects may be unbalanced
+
+$Barley_Root$`P/Fe`
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  484.9761   99.8681
+Deg. of Freedom        1        47
+
+Residual standard error: 1.457688
+Estimated effects may be unbalanced
+
 
 $Barley_Shoot
-$Barley_Shoot$` -Fe`
+$Barley_Shoot$C
+Call:
+   aov(formula = Value ~ Time, data = i)
+
+Terms:
+                    Time Residuals
+Sum of Squares  359.5498   50.9791
+Deg. of Freedom        1        47
+
+Residual standard error: 1.041471
+Estimated effects may be unbalanced
+
+$Barley_Shoot$Fe
 Call:
    aov(formula = Value ~ Time, data = i)
 
@@ -361,7 +373,7 @@ Deg. of Freedom        1        47
 Residual standard error: 1.01795
 Estimated effects may be unbalanced
 
-$Barley_Shoot$` -P`
+$Barley_Shoot$P
 Call:
    aov(formula = Value ~ Time, data = i)
 
@@ -373,7 +385,7 @@ Deg. of Freedom        1        47
 Residual standard error: 1.008325
 Estimated effects may be unbalanced
 
-$Barley_Shoot$` -P/-Fe`
+$Barley_Shoot$`P/Fe`
 Call:
    aov(formula = Value ~ Time, data = i)
 
@@ -383,18 +395,6 @@ Sum of Squares  324.3266   57.1144
 Deg. of Freedom        1        47
 
 Residual standard error: 1.102361
-Estimated effects may be unbalanced
-
-$Barley_Shoot$C
-Call:
-   aov(formula = Value ~ Time, data = i)
-
-Terms:
-                    Time Residuals
-Sum of Squares  359.5498   50.9791
-Deg. of Freedom        1        47
-
-Residual standard error: 1.041471
 Estimated effects may be unbalanced
 
 
