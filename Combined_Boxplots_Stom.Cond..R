@@ -12,8 +12,7 @@ table <- read.csv("Stom.Cond._R_data .csv", sep=";",
 #table<-table %>% select(1,2,3:6)
 table
 
-table1<-melt(table, id=c("Species"))
-melt(table, id=c("Species")) 
+table1 <- melt(table, id=c("Species"))
 
 #or
 table_1_sum<-table1 %>% 
@@ -47,3 +46,33 @@ ggplot(Table_2_sum, aes(x= variable, value, fill=variable))+
   facet_wrap(~Species, scales="free") + ylab("Stomatal Conductance") + xlab("Treatments") + scale_fill_manual(values=c("grey77", "skyblue3", "darkorange2", "slateblue3"))
 
 ggsave(filename = "Stom.Cond.Combined.pdf", plot = last_plot(), dpi = 600, units = "cm", width = 60, height = 50, scale = 0.5)
+
+
+
+#statistics
+##anova
+OneWay_Anova_Boxplot <- lapply(split(Table_2_sum, Table_2_sum[["Species"]]), function(i){ 
+    aov(value ~ variable, data = i)
+  })
+sink("OneWay_Anova_Boxplot.csv")
+OneWay_Anova_Boxplot
+sink(NULL)
+
+#Tukey
+##HSD complete
+HSD_Boxplot <- lapply(names(OneWay_Anova_Boxplot), function(i){ 
+    HSD.test(OneWay_Anova_Boxplot[[i]], "variable")
+})
+names(HSD_Boxplot) <- names(OneWay_Anova_Boxplot)
+
+##HSD groups only
+HSD_Boxplot_groups <- lapply(names(OneWay_Anova_Boxplot), function(i){
+    as.data.frame(HSD_Boxplot[[i]][["groups"]])
+})
+names(HSD_Boxplot_groups) <- names(OneWay_Anova_Boxplot)
+
+sink("HSD_Boxplot.csv")
+HSD_Boxplot_groups
+sink(NULL)
+
+
