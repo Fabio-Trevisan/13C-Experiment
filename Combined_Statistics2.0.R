@@ -121,7 +121,11 @@ for(i in vector_Species_Tissue) {
   list <- names(OneWay_Anova_Tr[[i]]) 
   names(HSD_Tr_groups[[i]]) <- list
 }
-write.table(HSD_Tr_groups, "HSD_Tr.csv", quote = FALSE, sep = ";")
+sink("HSD_Tr.csv")
+HSD_Tr_groups 
+sink(NULL)
+
+
 
 ##Time
 HSD_Ti_groups <- lapply(vector_Species_Tissue, function(i){
@@ -134,7 +138,9 @@ for(i in vector_Species_Tissue) {
   list <- names(OneWay_Anova_Ti[[i]]) 
   names(HSD_Ti_groups[[i]]) <- list
 }
-write.table(HSD_Ti_groups, "HSD_Ti.csv", quote = FALSE, sep = ";")
+sink("HSD_Ti.csv")
+HSD_Ti_groups 
+sink(NULL)
 
 
 
