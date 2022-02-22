@@ -1,0 +1,688 @@
+$Tomato_Root
+$Tomato_Root$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   10.09820  12.49054
+Deg. of Freedom         3        24
+
+Residual standard error: 0.7214148
+Estimated effects may be unbalanced
+
+$Tomato_Root$`1`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   6.580914 26.751029
+Deg. of Freedom         3        24
+
+Residual standard error: 1.055759
+Estimated effects may be unbalanced
+
+$Tomato_Root$`3`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   5.106639  8.819629
+Deg. of Freedom         3        24
+
+Residual standard error: 0.606205
+Estimated effects may be unbalanced
+
+$Tomato_Root$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   8.564354  6.002057
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5000857
+Estimated effects may be unbalanced
+
+$Tomato_Root$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares  24.030871  9.223714
+Deg. of Freedom         3        24
+
+Residual standard error: 0.6199366
+Estimated effects may be unbalanced
+
+$Tomato_Root$`11`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   35.02838   2.67511
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3338609
+Estimated effects may be unbalanced
+
+$Tomato_Root$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   35.19163   3.25831
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3684604
+Estimated effects may be unbalanced
+
+
+$Tomato_Shoot
+$Tomato_Shoot$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   9.443354 18.635943
+Deg. of Freedom         3        24
+
+Residual standard error: 0.881191
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`1`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   10.69944  24.65814
+Deg. of Freedom         3        24
+
+Residual standard error: 1.013619
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`3`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.900896  3.293714
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3704566
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   6.730143  4.152400
+Deg. of Freedom         3        24
+
+Residual standard error: 0.4159527
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   19.56961   5.63600
+Deg. of Freedom         3        24
+
+Residual standard error: 0.4845961
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`11`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   34.94730   2.60983
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3297618
+Estimated effects may be unbalanced
+
+$Tomato_Shoot$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   36.22584   3.28443
+Deg. of Freedom         3        24
+
+Residual standard error: 0.369934
+Estimated effects may be unbalanced
+
+
+$Cucumber_Root
+$Cucumber_Root$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   4.005725 17.826886
+Deg. of Freedom         3        24
+
+Residual standard error: 0.8618509
+Estimated effects may be unbalanced
+
+$Cucumber_Root$`2`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.967725 15.299943
+Deg. of Freedom         3        24
+
+Residual standard error: 0.7984345
+Estimated effects may be unbalanced
+
+$Cucumber_Root$`5`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   1.218782 10.221829
+Deg. of Freedom         3        24
+
+Residual standard error: 0.6526174
+Estimated effects may be unbalanced
+
+$Cucumber_Root$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.177557 17.825314
+Deg. of Freedom         3        24
+
+Residual standard error: 0.8618129
+Estimated effects may be unbalanced
+
+$Cucumber_Root$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   18.25878  22.09351
+Deg. of Freedom         3        24
+
+Residual standard error: 0.9594598
+Estimated effects may be unbalanced
+
+$Cucumber_Root$`12`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   36.75243  37.73551
+Deg. of Freedom         3        24
+
+Residual standard error: 1.253919
+Estimated effects may be unbalanced
+
+$Cucumber_Root$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   91.23239  16.53491
+Deg. of Freedom         3        24
+
+Residual standard error: 0.830033
+Estimated effects may be unbalanced
+
+
+$Cucumber_Shoot
+$Cucumber_Shoot$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.673371 10.330000
+Deg. of Freedom         3        24
+
+Residual standard error: 0.6560615
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`2`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.325496  6.803371
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5324226
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`5`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.601325  7.083371
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5432683
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.834296  8.395400
+Deg. of Freedom         3        24
+
+Residual standard error: 0.591446
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   23.98164  16.70477
+Deg. of Freedom         3        24
+
+Residual standard error: 0.8342854
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`12`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   29.39100  17.39077
+Deg. of Freedom         3        24
+
+Residual standard error: 0.8512435
+Estimated effects may be unbalanced
+
+$Cucumber_Shoot$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   61.27687  15.74091
+Deg. of Freedom         3        24
+
+Residual standard error: 0.8098589
+Estimated effects may be unbalanced
+
+
+$Maize_Root
+$Maize_Root$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.468071  3.403629
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3765871
+Estimated effects may be unbalanced
+
+$Maize_Root$`2`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.852171 12.367600
+Deg. of Freedom         3        24
+
+Residual standard error: 0.7178556
+Estimated effects may be unbalanced
+
+$Maize_Root$`4`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   1.292471 13.513971
+Deg. of Freedom         3        24
+
+Residual standard error: 0.750388
+Estimated effects may be unbalanced
+
+$Maize_Root$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.802871 10.213629
+Deg. of Freedom         3        24
+
+Residual standard error: 0.6523556
+Estimated effects may be unbalanced
+
+$Maize_Root$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   1.404157  6.050314
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5020921
+Estimated effects may be unbalanced
+
+$Maize_Root$`11`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   2.432668 14.393629
+Deg. of Freedom         3        24
+
+Residual standard error: 0.7744253
+Estimated effects may be unbalanced
+
+$Maize_Root$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   2.205114  2.817229
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3426142
+Estimated effects may be unbalanced
+
+
+$Maize_Shoot
+$Maize_Shoot$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   1.720325 14.563686
+Deg. of Freedom         3        24
+
+Residual standard error: 0.7789867
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`2`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.346382  6.683486
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5277107
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`4`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   5.168754  6.439914
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5180056
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   2.912382  8.161886
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5831626
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   8.176529  2.871114
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3458754
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`11`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   8.645171  3.466914
+Deg. of Freedom         3        24
+
+Residual standard error: 0.380072
+Estimated effects may be unbalanced
+
+$Maize_Shoot$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares     3.3416    1.6586
+Deg. of Freedom         3        24
+
+Residual standard error: 0.2628846
+Estimated effects may be unbalanced
+
+
+$Barley_Root
+$Barley_Root$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.925786 14.402600
+Deg. of Freedom         3        24
+
+Residual standard error: 0.7746666
+Estimated effects may be unbalanced
+
+$Barley_Root$`2`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   21.03376  32.44063
+Deg. of Freedom         3        24
+
+Residual standard error: 1.162623
+Estimated effects may be unbalanced
+
+$Barley_Root$`4`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   10.14007  42.72140
+Deg. of Freedom         3        24
+
+Residual standard error: 1.334188
+Estimated effects may be unbalanced
+
+$Barley_Root$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   13.74287  38.12271
+Deg. of Freedom         3        24
+
+Residual standard error: 1.260336
+Estimated effects may be unbalanced
+
+$Barley_Root$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares    4.99733  48.36746
+Deg. of Freedom         3        24
+
+Residual standard error: 1.419616
+Estimated effects may be unbalanced
+
+$Barley_Root$`11`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   13.18470  16.53777
+Deg. of Freedom         3        24
+
+Residual standard error: 0.8301047
+Estimated effects may be unbalanced
+
+$Barley_Root$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   15.36951  20.85883
+Deg. of Freedom         3        24
+
+Residual standard error: 0.9322649
+Estimated effects may be unbalanced
+
+
+$Barley_Shoot
+$Barley_Shoot$`0`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.258811 10.908886
+Deg. of Freedom         3        24
+
+Residual standard error: 0.6741935
+Estimated effects may be unbalanced
+
+$Barley_Shoot$`2`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   3.317096 20.155829
+Deg. of Freedom         3        24
+
+Residual standard error: 0.9164203
+Estimated effects may be unbalanced
+
+$Barley_Shoot$`4`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.464782  8.001743
+Deg. of Freedom         3        24
+
+Residual standard error: 0.5774132
+Estimated effects may be unbalanced
+
+$Barley_Shoot$`7`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.977271  5.443914
+Deg. of Freedom         3        24
+
+Residual standard error: 0.4762665
+Estimated effects may be unbalanced
+
+$Barley_Shoot$`9`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.219586  4.023200
+Deg. of Freedom         3        24
+
+Residual standard error: 0.4094305
+Estimated effects may be unbalanced
+
+$Barley_Shoot$`11`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares   0.728068  4.120143
+Deg. of Freedom         3        24
+
+Residual standard error: 0.4143339
+Estimated effects may be unbalanced
+
+$Barley_Shoot$`14`
+Call:
+   aov(formula = Value ~ Treatment, data = i)
+
+Terms:
+                Treatment Residuals
+Sum of Squares  0.3959821 2.4844857
+Deg. of Freedom         3        24
+
+Residual standard error: 0.3217456
+Estimated effects may be unbalanced
+
+
