@@ -301,7 +301,11 @@ list0 <- list(1, 2, 3, 4, 5, 6, 7)
 HSD_Tr_tr_groups <- lapply(list0, function(i){ 
   as.data.frame(HSD_Tr_tr[[i]][["groups"]])
 })
-write.table(HSD_Tr_tr_groups, "HSD_Tr_tr.csv", quote = FALSE, sep = ";")
+#messing up with the lables--> write.table(HSD_Tr_tr_groups, "HSD_Tr_tr.csv", quote = FALSE, sep = ";")
+## code here under the caption is more reliable
+sink("HSD_Ti.csv")
+HSD_Ti_groups 
+sink(NULL)
 
 HSD_Tr_ts_groups <- lapply(list0, function(i){ 
   as.data.frame(HSD_Tr_ts[[i]][["groups"]])
