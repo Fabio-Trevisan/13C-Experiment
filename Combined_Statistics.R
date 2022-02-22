@@ -101,13 +101,11 @@ write.table(TwoWay_Anova, file = "TwoWay_Anova_results.csv", quote = FALSE, sep 
 
 
 
-#1way ANOVA (TSAVING NOT WORKING)----
+#1way ANOVA----
 ##Treatment
 OneWay_Anova_Tr_tr <- lapply(split(Tomato_Root, Tomato_Root$Time), function(i){ 
   aov(Value ~ Treatment, data = i)
 })
-View(OneWay_Anova_Tr_tr)
-write.table(OneWay_Anova_Tr_tr, file = "OneWay_Anova_Tr_tr.csv", quote = FALSE, sep = ";")
 
 OneWay_Anova_Tr_ts <- lapply(split(Tomato_Shoot, Tomato_Shoot$Time), function(i){ 
   aov(Value ~ Treatment, data = i)
