@@ -1,0 +1,28 @@
+$Barley
+       value groups
+Fe   0.10340      a
+P    0.06565      b
+P.Fe 0.04820      c
+C    0.03610      c
+
+$Cucumber
+          value groups
+Fe   0.06292857      a
+C    0.04771429      b
+P.Fe 0.03428571      c
+P    0.02828571      c
+
+$Maize
+          value groups
+P.Fe 0.01425000      a
+P    0.01362500      a
+C    0.01350000      a
+Fe   0.01042857      a
+
+$Tomato
+          value groups
+C    0.01622727      a
+Fe   0.01400000      a
+P.Fe 0.00600000      b
+P    0.00473913      b
+
