@@ -57,7 +57,7 @@ write.table(TwoWay_Anova, file = "TwoWay_Anova_results.csv", quote = FALSE, sep 
 
 
 #1way ANOVA----
-##Treatment
+##Treatment.for tukey
 OneWay_Anova_Tr <- lapply(vector_Species_Tissue, function(m){
   lapply(split(Subsets[[m]], Subsets[[m]][["Time"]]), function(i){ 
     aov(Value ~ Treatment, data = i)
@@ -65,7 +65,7 @@ OneWay_Anova_Tr <- lapply(vector_Species_Tissue, function(m){
 })
 names(OneWay_Anova_Tr) <- vector_Species_Tissue
 
-##Time
+##Time.for tukey
 OneWay_Anova_Ti <- lapply(vector_Species_Tissue, function(m){
  lapply(split(Subsets[[m]], Subsets[[m]][["Treatment"]]), function(i){ 
     aov(Value ~ Time, data = i)
@@ -73,13 +73,29 @@ OneWay_Anova_Ti <- lapply(vector_Species_Tissue, function(m){
 })
 names(OneWay_Anova_Ti) <- vector_Species_Tissue
 
+##Treatment.for print
+OneWay_Anova_Tr2 <- lapply(vector_Species_Tissue, function(m){
+  lapply(split(Subsets[[m]], Subsets[[m]][["Time"]]), function(i){ 
+    anova(lm(Value ~ Treatment, data = i))
+  })
+})
+names(OneWay_Anova_Tr2) <- vector_Species_Tissue
+
+##Time.for print
+OneWay_Anova_Ti2 <- lapply(vector_Species_Tissue, function(m){
+  lapply(split(Subsets[[m]], Subsets[[m]][["Treatment"]]), function(i){ 
+    anova(lm(Value ~ Time, data = i))
+  })
+})
+names(OneWay_Anova_Ti2) <- vector_Species_Tissue
+
 ##OneWayAnova save
-  sink("OneWayAnova_Results_Tr.txt")
-  OneWay_Anova_Tr 
+  sink("OneWayAnova_Results_Tr.csv")
+  OneWay_Anova_Tr2 
   sink(NULL)
   
-  sink("OneWayAnova_Results_Ti.txt")
-  OneWay_Anova_Ti 
+  sink("OneWayAnova_Results_Ti.csv")
+  OneWay_Anova_Ti2 
   sink(NULL)
 
 
