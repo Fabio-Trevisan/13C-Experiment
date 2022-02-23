@@ -1,400 +1,330 @@
 $Tomato_Root
 $Tomato_Root$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                     Time Residuals
-Sum of Squares  206.75654  56.44988
-Deg. of Freedom         1        47
-
-Residual standard error: 1.095929
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 206.76 206.757  172.14 < 2.2e-16 ***
+Residuals 47  56.45   1.201                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Tomato_Root$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                     Time Residuals
-Sum of Squares  135.81836  29.49446
-Deg. of Freedom         1        47
-
-Residual standard error: 0.7921753
-Estimated effects may be unbalanced
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 135.818 135.818  216.43 < 2.2e-16 ***
+Residuals 47  29.494   0.628                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Tomato_Root$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  35.27003  46.88108
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9987341
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 35.270  35.270  35.359 3.244e-07 ***
+Residuals 47 46.881   0.997                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Tomato_Root$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                   Time Residuals
-Sum of Squares  64.9806   63.4313
-Deg. of Freedom       1        47
-
-Residual standard error: 1.161724
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 64.981  64.981  48.148 1.012e-08 ***
+Residuals 47 63.431   1.350                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Tomato_Shoot
 $Tomato_Shoot$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  87.31821  56.52655
-Deg. of Freedom        1        47
-
-Residual standard error: 1.096673
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 87.318  87.318  72.602 4.304e-11 ***
+Residuals 47 56.527   1.203                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Tomato_Shoot$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  45.75977  29.95883
-Deg. of Freedom        1        47
-
-Residual standard error: 0.7983871
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 45.760  45.760  71.789 5.063e-11 ***
+Residuals 47 29.959   0.637                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Tomato_Shoot$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares   0.03159  39.49961
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9167427
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Time       1  0.032 0.03159  0.0376 0.8471
+Residuals 47 39.500 0.84042               
 
 $Tomato_Shoot$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  10.64345  52.43095
-Deg. of Freedom        1        47
-
-Residual standard error: 1.056197
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Time       1 10.643 10.6434   9.541 0.003369 **
+Residuals 47 52.431  1.1156                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Cucumber_Root
 $Cucumber_Root$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares   0.00187  40.38380
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9269465
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Time       1  0.002 0.00187  0.0022  0.963
+Residuals 47 40.384 0.85923               
 
 $Cucumber_Root$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                     Time Residuals
-Sum of Squares   0.822528 22.829484
-Deg. of Freedom         1        47
-
-Residual standard error: 0.696946
-Estimated effects may be unbalanced
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Time       1  0.8225 0.82253  1.6934 0.1995
+Residuals 47 22.8295 0.48573               
 
 $Cucumber_Root$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  58.07541  83.96129
-Deg. of Freedom        1        47
-
-Residual standard error: 1.336567
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)    
+Time       1 58.075  58.075   32.51 7.59e-07 ***
+Residuals 47 83.961   1.786                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Cucumber_Root$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  35.26929  93.51456
-Deg. of Freedom        1        47
-
-Residual standard error: 1.410557
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 35.269  35.269  17.726 0.0001142 ***
+Residuals 47 93.515   1.990                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Cucumber_Shoot
 $Cucumber_Shoot$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                     Time Residuals
-Sum of Squares   5.005169 25.444165
-Deg. of Freedom         1        47
-
-Residual standard error: 0.7357753
-Estimated effects may be unbalanced
+Response: Value
+          Df  Sum Sq Mean Sq F value   Pr(>F)   
+Time       1  5.0052  5.0052  9.2455 0.003852 **
+Residuals 47 25.4442  0.5414                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Cucumber_Shoot$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                     Time Residuals
-Sum of Squares   4.767054 21.411767
-Deg. of Freedom         1        47
-
-Residual standard error: 0.6749589
-Estimated effects may be unbalanced
+Response: Value
+          Df  Sum Sq Mean Sq F value   Pr(>F)   
+Time       1  4.7671  4.7671  10.464 0.002231 **
+Residuals 47 21.4118  0.4556                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Cucumber_Shoot$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  31.34496  64.80963
-Deg. of Freedom        1        47
-
-Residual standard error: 1.174278
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 31.345 31.3450  22.731 1.836e-05 ***
+Residuals 47 64.810  1.3789                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Cucumber_Shoot$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  10.07693  68.04932
-Deg. of Freedom        1        47
-
-Residual standard error: 1.20327
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+Time       1 10.077 10.0769  6.9599 0.01127 *
+Residuals 47 68.049  1.4479                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Maize_Root
 $Maize_Root$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  90.37483  15.89833
-Deg. of Freedom        1        47
-
-Residual standard error: 0.5816033
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 90.375  90.375  267.17 < 2.2e-16 ***
+Residuals 47 15.898   0.338                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Maize_Root$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  72.40302  24.46862
-Deg. of Freedom        1        47
-
-Residual standard error: 0.7215323
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 72.403  72.403  139.07 1.204e-15 ***
+Residuals 47 24.469   0.521                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Maize_Root$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  78.36865  21.91795
-Deg. of Freedom        1        47
-
-Residual standard error: 0.6828905
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 78.369  78.369  168.05 < 2.2e-16 ***
+Residuals 47 21.918   0.466                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Maize_Root$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  83.32094  19.01956
-Deg. of Freedom        1        47
-
-Residual standard error: 0.6361379
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 83.321  83.321   205.9 < 2.2e-16 ***
+Residuals 47 19.020   0.405                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Maize_Shoot
 $Maize_Shoot$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  82.93369  32.39690
-Deg. of Freedom        1        47
-
-Residual standard error: 0.8302384
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 82.934  82.934  120.32 1.489e-14 ***
+Residuals 47 32.397   0.689                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Maize_Shoot$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  47.01037  30.71114
-Deg. of Freedom        1        47
-
-Residual standard error: 0.8083492
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 47.010  47.010  71.944 4.908e-11 ***
+Residuals 47 30.711   0.653                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Maize_Shoot$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  80.74893  29.78309
-Deg. of Freedom        1        47
-
-Residual standard error: 0.796042
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 80.749  80.749  127.43 5.557e-15 ***
+Residuals 47 29.783   0.634                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Maize_Shoot$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  73.84533  38.53912
-Deg. of Freedom        1        47
-
-Residual standard error: 0.9055282
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 73.845  73.845  90.057 1.688e-12 ***
+Residuals 47 38.539   0.820                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Barley_Root
 $Barley_Root$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  463.5953   81.3866
-Deg. of Freedom        1        47
-
-Residual standard error: 1.315914
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 463.60  463.60  267.72 < 2.2e-16 ***
+Residuals 47  81.39    1.73                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Barley_Root$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  366.3291  105.9932
-Deg. of Freedom        1        47
-
-Residual standard error: 1.501724
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 366.33  366.33  162.44 < 2.2e-16 ***
+Residuals 47 105.99    2.26                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Barley_Root$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  451.4489   80.7224
-Deg. of Freedom        1        47
-
-Residual standard error: 1.310534
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 451.45  451.45  262.85 < 2.2e-16 ***
+Residuals 47  80.72    1.72                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Barley_Root$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  484.9761   99.8681
-Deg. of Freedom        1        47
-
-Residual standard error: 1.457688
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 484.98  484.98  228.24 < 2.2e-16 ***
+Residuals 47  99.87    2.12                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
 $Barley_Shoot
 $Barley_Shoot$C
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  359.5498   50.9791
-Deg. of Freedom        1        47
-
-Residual standard error: 1.041471
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 359.55  359.55  331.49 < 2.2e-16 ***
+Residuals 47  50.98    1.08                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Barley_Shoot$Fe
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  347.8552   48.7024
-Deg. of Freedom        1        47
-
-Residual standard error: 1.01795
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 347.86  347.86   335.7 < 2.2e-16 ***
+Residuals 47  48.70    1.04                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Barley_Shoot$P
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  336.8322   47.7858
-Deg. of Freedom        1        47
-
-Residual standard error: 1.008325
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 336.83  336.83  331.29 < 2.2e-16 ***
+Residuals 47  47.79    1.02                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Barley_Shoot$`P/Fe`
-Call:
-   aov(formula = Value ~ Time, data = i)
+Analysis of Variance Table
 
-Terms:
-                    Time Residuals
-Sum of Squares  324.3266   57.1144
-Deg. of Freedom        1        47
-
-Residual standard error: 1.102361
-Estimated effects may be unbalanced
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       1 324.33  324.33  266.89 < 2.2e-16 ***
+Residuals 47  57.11    1.22                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 
