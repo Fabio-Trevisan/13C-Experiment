@@ -6,19 +6,16 @@ library(dplyr)
 library(rstatix)
 library(purrr)
 library(agricolae)
-library(ARTofR)
-
-##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                            --
-##BASIC_STATISTICS------
-##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-#Read CSV----
+##BASIC_STATISTICS ####
+
+#Read CSV ####
 
 table <- read.csv("13C_IRMS_R_data.csv", sep=";",
                    header=T)
 
-#calculate means and errors in R----
+#calculate means and errors in R ####
 #non serve 
 #Summary_table <- ddply(table, c("Treatment", "Time", "Species_Tissue"), summarise,
                        #N    = sum(!is.na(Value)),
@@ -28,7 +25,7 @@ table <- read.csv("13C_IRMS_R_data.csv", sep=";",
 
 
 
-#create Subsets according to Species_Tissue----
+#create Subsets according to Species_Tissue ####
 Tomato_Root <- subset(table, Species_Tissue == "Tomato_Root")
 head(Tomato_Root)
 Tomato_Shoot <- subset(table, Species_Tissue == "Tomato_Shoot")
@@ -48,7 +45,7 @@ head(Barley_Shoot)
 
 
 
-#Shapiro-Wilk normality check and/or qq-plot and/or density plot----
+#Shapiro-Wilk normality check and/or qq-plot and/or density plot ####
 #for all single treatments
 SW_test <- table %>%
   group_by(Time, Treatment, Species_Tissue) %>%
@@ -67,7 +64,7 @@ qq_plot
 
 
 
-#transform variable to factor----
+#transform variable to factor ####
 table$Time <- factor(table$Time)
 Tomato_Root$Time <- factor(Tomato_Root$Time)
 Tomato_Shoot$Time <- factor(Tomato_Shoot$Time)
@@ -81,7 +78,7 @@ Barley_Shoot$Time <- factor(Barley_Shoot$Time)
 
 
 
-#2way ANOVA----
+#2way ANOVA ####
 ##Single Species_Tissue
 Tomato_Root$Time <- factor(Tomato_Root$Time)
 TwoWay_Anova_tr <- aov(Value ~ Treatment * Time, data = Tomato_Root)
@@ -101,7 +98,7 @@ write.table(TwoWay_Anova, file = "TwoWay_Anova_results.csv", quote = FALSE, sep 
 
 
 
-#1way ANOVA----
+#1way ANOVA ####
 ##Treatment
 OneWay_Anova_Tr_tr <- lapply(split(Tomato_Root, Tomato_Root$Time), function(i){ 
   aov(Value ~ Treatment, data = i)
@@ -211,7 +208,7 @@ sapply(OneWay_Anova_Tr_tr, class)
 
 
 
-# Tukey as post hoc test----
+# Tukey as post hoc test ####
 #Single Treatment/Time
 Tukey_test <- HSD.test(OneWay_Anova_Tr_tr[["0"]], "Treatment")
 Tukey_test <- Tukey_test["groups"]
@@ -390,7 +387,7 @@ write.table(HSD_Tr_cs_groups, "HSD_Tr_cs.csv", quote = FALSE, sep = ";")
 
 
 
-#Assumptions----
+#Assumptions ####
 # 1. Homogeneity of variances
 plot(TwoWay_Anova_tr, 1)
 levene_test(Value ~ Treatment * Time, data = Tomato_Root)
@@ -408,7 +405,7 @@ shapiro.test(Tomato_Root)
 
 
 
-#Kruskal Wallis NOT WORKING ----
+#Kruskal Wallis NOT WORKING ####
 ##Single Species_Tissue
 TwoWay_KW_tr <- kruskal.test(Value ~ Treatment * Time, data = Tomato_Root)
 
