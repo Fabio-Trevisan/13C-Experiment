@@ -12,7 +12,7 @@ library(agricolae)
 
 
 #Read CSV ####
-table <- read.csv("13C_IRMS_R_data.csv", sep=";",
+table <- read.csv("DATA_13C_IRMS_R.csv", sep=";",
                   header=T)
 
 vector_Species_Tissue <- c("Tomato_Root",
@@ -40,6 +40,26 @@ table$Time <- factor(table$Time)
 lapply(vector_Species_Tissue, function(i){
   Subsets[[i]][["Time"]] <- factor(Subsets[[i]][["Time"]])
 })
+
+
+
+#Assumptions ####
+## 1. Homogeneity of variances
+##Treatment*Time
+Levene_test <- lapply(split(table, table$Species_Tissue), function(i){
+  levene_test(Value ~ Treatment * Time, data = i)
+})
+
+##2. Normality
+##Shapiro-Wilk test for all single treatments
+SW_test <- table %>%
+  group_by(Time, Treatment, Species_Tissue) %>%
+  shapiro_test(Value)
+View(SW_test)
+write.table(SW_test, file = "ShapiroWilk_test_results.csv", quote = FALSE, sep = ";")
+
+##3. Indipendency
+Data are indepent by experimental design!
 
 
 
@@ -152,26 +172,3 @@ for(i in vector_Species_Tissue) {
 sink("HSD_Ti.csv")
 HSD_Ti_groups 
 sink(NULL)
-
-
-
-#Assumptions ####
-# 1. Homogeneity of variances
-plot(TwoWay_Anova_tr, 1)
-levene_test(Value ~ Treatment * Time, data = Tomato_Root)
-
-# 2. Normality
-plot(TwoWay_Anova_tr, 2)
-
-## Extract the residuals
-aov_residuals <- residuals(object = TwoWay_Anova_tr)
-## Run Shapiro-Wilk test
-shapiro.test(x = aov_residuals)
-shapiro.test(Tomato_Root)
-
-#Shapiro-Wilk test for all single treatments
-SW_test <- table %>%
-  group_by(Time, Treatment, Species_Tissue) %>%
-  shapiro_test(Value)
-View(SW_test)
-write.table(SW_test, file = "ShapiroWilk_test_results.csv", quote = FALSE, sep = ";")
