@@ -35,3 +35,5 @@ f2 + facet_wrap(~Species_Tissue, scales="free", ncol = 2) +
 
 
 ggsave(filename = "Masses_Scatter-lines_errorbars(bw).pdf", plot = last_plot(), dpi = 600, units = "cm", width = 70, height = 80, scale = 0.5)
+
+write.table(Summary_table, "Masses_summary_statistics.csv", quote = FALSE, sep = ";")
