@@ -1,0 +1,48 @@
+$Barley
+Call:
+   aov(formula = value ~ Treatment, data = i)
+
+Terms:
+                  Treatment   Residuals
+Sum of Squares  0.009996852 0.012784812
+Deg. of Freedom           3          76
+
+Residual standard error: 0.01297001
+Estimated effects may be unbalanced
+
+$Cucumber
+Call:
+   aov(formula = value ~ Treatment, data = i)
+
+Terms:
+                  Treatment   Residuals
+Sum of Squares  0.009929904 0.007466182
+Deg. of Freedom           3          52
+
+Residual standard error: 0.0119825
+Estimated effects may be unbalanced
+
+$Maize
+Call:
+   aov(formula = value ~ Treatment, data = i)
+
+Terms:
+                   Treatment    Residuals
+Sum of Squares  0.0001959701 0.0027381052
+Deg. of Freedom            3           57
+
+Residual standard error: 0.006930868
+Estimated effects may be unbalanced
+
+$Tomato
+Call:
+   aov(formula = value ~ Treatment, data = i)
+
+Terms:
+                   Treatment    Residuals
+Sum of Squares  0.0021483032 0.0007105595
+Deg. of Freedom            3           83
+
+Residual standard error: 0.002925911
+Estimated effects may be unbalanced
+
