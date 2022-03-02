@@ -8,8 +8,8 @@ library(dplyr)
 
 
 
-#Scatter line + error bars (STD.Err) --> used means and errors from excel NOT calculated in R 
-table1 <- read.csv("13C_IRMS_Summary_R_data.csv", sep=";",
+#Scatter line + error bars (STD.Err) --> used means and errors from excel NOT calculated in R ####
+table1 <- read.csv("DATA_13C_IRMS_Summary_R.csv", sep=";",
                    header=T)
 
 f1 <- ggplot(table1, aes(x = Time, y = Mean, group = Treatment, colour = Treatment)) + 
@@ -29,9 +29,9 @@ ggsave(filename = "13C_Scatter-lines_errorbars(bw).pdf", plot = last_plot(), dpi
 
 
 
-#Scatter line + error bars (STD.Err) --> calculate means and errors in R 
+#Scatter line + error bars (STD.Err) --> calculate means and errors in R ####
 
-table2 <- read.csv("13C_IRMS_R_data.csv", sep=";",
+table2 <- read.csv("DATA_13C_IRMS_R.csv", sep=";",
                   header=T)
 
 Summary_table <- ddply(table2, c("Treatment", "Time", "Species_Tissue"), summarise,
