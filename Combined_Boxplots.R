@@ -10,13 +10,13 @@ library(agricolae)
 #read csv & rename columns ####
 table <- read.csv("DATA_Evapotransp._R.csv", sep=";",
                   header=T)
-name <- "Evapotranspiration"
+name <- "Transpiration_Rate"
 vector <- seq(0, 1.5, 0.1)
 
 #or
 table <- read.csv("DATA_Photos.Rate_R.csv", sep=";",
                   header=T)
-name <- "Photosynthesis_Rate"
+name <- "Photosynthetic_Rate"
 vector <- seq(0, 3.5, 0.5)
 
 #or
