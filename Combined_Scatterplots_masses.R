@@ -25,12 +25,12 @@ f2 <- ggplot(Summary_table, aes(x = Time, y = mean, group = Treatment, colour = 
   geom_line(aes(group = Treatment)) + 
   geom_point(aes(shape = Treatment)) + 
   scale_shape_manual(values = c(15:18)) +
-  scale_color_manual(values=c("darkorange2", "skyblue3", "slateblue3", "grey77"))+
+  scale_color_manual(values=c("grey77", "darkorange2", "skyblue3", "slateblue3"))+
   geom_errorbar(aes(ymin = mean-se, ymax = mean+se, group = Treatment), width = 0.5) +
   theme_bw() + 
   scale_x_continuous(breaks=seq(0,16,1))
 f2 + facet_wrap(~Species_Tissue, scales="free", ncol = 2) + 
-  ylab("Mass (g)") + 
+  ylab("Fresh weight (g)") + 
   xlab("Time (Days)") 
 
 
