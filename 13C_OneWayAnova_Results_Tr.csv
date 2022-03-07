@@ -1,518 +1,520 @@
-$Tomato_Root;;;;;;;;;;;;;
-$Tomato_Root$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;10.098;3.3661;6.4677;0.002302;**;;;;;;;
-Residuals;24;12.491;0.5204;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$`1`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;6.5809;2.1936;1.968;0.1457;;;;;;;;
-Residuals;24;26.751;1.1146;;;;;;;;;;
-;;;;;;;;;;;;;
-$Tomato_Root$`3`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;5.1066;1.70221;4.6321;0.0108;*;;;;;;;
-Residuals;24;8.8196;0.36748;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;8.5644;2.85478;11.415;7.60E-05;***;;;;;;;
-Residuals;24;6.0021;0.25009;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;24.0309;8.0103;20.843;7.21E-07;***;;;;;;;
-Residuals;24;9.2237;0.3843;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$`11`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;35.028;11.6761;104.75;6.34E-14;***;;;;;;;
-Residuals;24;2.675;0.1115;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;35.192;11.7305;86.404;5.31E-13;***;;;;;;;
-Residuals;24;3.258;0.1358;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Tomato_Shoot;;;;;;;;;;;;;
-$Tomato_Shoot$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;9.4434;3.1478;4.0538;0.01829;*;;;;;;;
-Residuals;24;18.6359;0.7765;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$`1`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;10.699;3.5665;3.4713;0.03176;*;;;;;;;
-Residuals;24;24.658;1.0274;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$`3`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.9009;0.3003;2.1882;0.1156;;;;;;;;
-Residuals;24;3.2937;0.13724;;;;;;;;;;
-;;;;;;;;;;;;;
-$Tomato_Shoot$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;6.7301;2.24338;12.966;3.09E-05;***;;;;;;;
-Residuals;24;4.1524;0.17302;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;19.57;6.5232;27.778;5.61E-08;***;;;;;;;
-Residuals;24;5.636;0.2348;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$`11`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;34.947;11.6491;107.13;4.94E-14;***;;;;;;;
-Residuals;24;2.61;0.1087;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;36.226;12.0753;88.237;4.22E-13;***;;;;;;;
-Residuals;24;3.284;0.1369;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root;;;;;;;;;;;;;
-$Cucumber_Root$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;4.0057;1.33524;1.7976;0.1746;;;;;;;;
-Residuals;24;17.8269;0.74279;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root$`2`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.9677;0.32257;0.506;0.6818;;;;;;;;
-Residuals;24;15.2999;0.6375;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root$`5`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;1.2188;0.40626;0.9539;0.4304;;;;;;;;
-Residuals;24;10.2218;0.42591;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.1776;0.05919;0.0797;0.9704;;;;;;;;
-Residuals;24;17.8253;0.74272;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;18.259;6.0863;6.6115;0.002055;**;;;;;;;
-Residuals;24;22.093;0.9206;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Root$`12`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;36.752;12.2508;7.7916;0.0008396;***;;;;;;;
-Residuals;24;37.736;1.5723;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Root$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;91.232;30.411;44.141;6.35E-10;***;;;;;;;
-Residuals;24;16.535;0.689;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Shoot;;;;;;;;;;;;;
-$Cucumber_Shoot$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.6734;0.22446;0.5215;0.6716;;;;;;;;
-Residuals;24;10.33;0.43042;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`2`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.3255;0.1085;0.3827;0.7663;;;;;;;;
-Residuals;24;6.8034;0.28347;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`5`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.6013;0.20044;0.6791;0.5734;;;;;;;;
-Residuals;24;7.0834;0.29514;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.8343;0.2781;0.795;0.5087;;;;;;;;
-Residuals;24;8.3954;0.34981;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;23.982;7.9939;11.485;7.28E-05;***;;;;;;;
-Residuals;24;16.705;0.696;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`12`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;29.391;9.797;13.52;2.27E-05;***;;;;;;;
-Residuals;24;17.391;0.7246;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;61.277;20.4256;31.143;1.93E-08;***;;;;;;;
-Residuals;24;15.741;0.6559;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root;;;;;;;;;;;;;
-$Maize_Root$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.4681;0.15602;1.1002;0.3683;;;;;;;;
-Residuals;24;3.4036;0.14182;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root$`2`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.8522;0.28406;0.5512;0.6522;;;;;;;;
-Residuals;24;12.3676;0.51532;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root$`4`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;1.2925;0.43082;0.7651;0.5248;;;;;;;;
-Residuals;24;13.514;0.56308;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.8029;0.26762;0.6289;0.6035;;;;;;;;
-Residuals;24;10.2136;0.42557;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;1.4042;0.46805;1.8566;0.1639;;;;;;;;
-Residuals;24;6.0503;0.2521;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root$`11`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;2.4327;0.81089;1.3521;0.2812;;;;;;;;
-Residuals;24;14.3936;0.59973;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;2.2051;0.73504;6.2618;0.002713;**;;;;;;;
-Residuals;24;2.8172;0.11738;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Shoot;;;;;;;;;;;;;
-$Maize_Shoot$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;1.7203;0.57344;0.945;0.4345;;;;;;;;
-Residuals;24;14.5637;0.60682;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Shoot$`2`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.3464;0.11546;0.4146;0.744;;;;;;;;
-Residuals;24;6.6835;0.27848;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Shoot$`4`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;5.1688;1.72292;6.4209;0.002389;**;;;;;;;
-Residuals;24;6.4399;0.26833;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;2.9124;0.97079;2.8546;0.05834;.;;;;;;;
-Residuals;24;8.1619;0.34008;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;8.1765;2.72551;22.783;3.33E-07;***;;;;;;;
-Residuals;24;2.8711;0.11963;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$`11`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;8.6452;2.88172;19.949;1.05E-06;***;;;;;;;
-Residuals;24;3.4669;0.14445;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;3.3416;1.11387;16.118;5.96E-06;***;;;;;;;
-Residuals;24;1.6586;0.06911;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Root;;;;;;;;;;;;;
-$Barley_Root$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.9258;0.3086;0.5142;0.6764;;;;;;;;
-Residuals;24;14.4026;0.60011;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Root$`2`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;21.034;7.0113;5.187;0.006635;**;;;;;;;
-Residuals;24;32.441;1.3517;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Root$`4`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;10.14;3.38;1.8988;0.1568;;;;;;;;
-Residuals;24;42.721;1.7801;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Root$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;13.743;4.581;2.8839;0.05665;.;;;;;;;
-Residuals;24;38.123;1.5884;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Root$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;4.997;1.6658;0.8266;0.4922;;;;;;;;
-Residuals;24;48.367;2.0153;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Root$`11`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;13.185;4.3949;6.378;0.002472;**;;;;;;;
-Residuals;24;16.538;0.6891;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Root$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;15.37;5.1232;5.8947;0.003657;**;;;;;;;
-Residuals;24;20.859;0.8691;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot;;;;;;;;;;;;;
-$Barley_Shoot$`0`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.2588;0.08627;0.1898;0.9023;;;;;;;;
-Residuals;24;10.9089;0.45454;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot$`2`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;;;;;;;
-Treatment;3;3.3171;1.1057;1.3166;0.2921;;;;;;;;
-Residuals;24;20.1558;0.83983;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot$`4`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.4648;0.15493;0.4647;0.7096;;;;;;;;
-Residuals;24;8.0017;0.33341;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot$`7`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.9773;0.32576;1.4361;0.2569;;;;;;;;
-Residuals;24;5.4439;0.22683;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot$`9`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.2196;0.073195;0.4366;0.7288;;;;;;;;
-Residuals;24;4.0232;0.167633;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot$`11`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.7281;0.24269;1.4137;0.2632;;;;;;;;
-Residuals;24;4.1201;0.17167;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot$`14`;;;;;;;;;;;;;
-Analysis;of;Variance;Table;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Treatment;3;0.39598;0.13199;1.2751;0.3054;;;;;;;;
-Residuals;24;2.48449;0.10352;;;;;;;;;;
+$Tomato_Root
+$Tomato_Root$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 10.098  3.3661  6.4677 0.002302 **
+Residuals 24 12.491  0.5204                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$`1`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  6.5809  2.1936   1.968 0.1457
+Residuals 24 26.7510  1.1146               
+
+$Tomato_Root$`3`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)  
+Treatment  3 5.1066 1.70221  4.6321 0.0108 *
+Residuals 24 8.8196 0.36748                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 8.5644 2.85478  11.415 7.596e-05 ***
+Residuals 24 6.0021 0.25009                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 24.0309  8.0103  20.843 7.205e-07 ***
+Residuals 24  9.2237  0.3843                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$`11`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)    
+Treatment  3 35.028 11.6761  104.75 6.34e-14 ***
+Residuals 24  2.675  0.1115                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 35.192 11.7305  86.404 5.306e-13 ***
+Residuals 24  3.258  0.1358                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Tomato_Shoot
+$Tomato_Shoot$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value  Pr(>F)  
+Treatment  3  9.4434  3.1478  4.0538 0.01829 *
+Residuals 24 18.6359  0.7765                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$`1`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+Treatment  3 10.699  3.5665  3.4713 0.03176 *
+Residuals 24 24.658  1.0274                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$`3`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.9009 0.30030  2.1882 0.1156
+Residuals 24 3.2937 0.13724               
+
+$Tomato_Shoot$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 6.7301 2.24338  12.966 3.088e-05 ***
+Residuals 24 4.1524 0.17302                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 19.570  6.5232  27.778 5.607e-08 ***
+Residuals 24  5.636  0.2348                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$`11`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 34.947 11.6491  107.13 4.942e-14 ***
+Residuals 24  2.610  0.1087                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 36.226 12.0753  88.237 4.216e-13 ***
+Residuals 24  3.284  0.1369                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Cucumber_Root
+$Cucumber_Root$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  4.0057 1.33524  1.7976 0.1746
+Residuals 24 17.8269 0.74279               
+
+$Cucumber_Root$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.9677 0.32257   0.506 0.6818
+Residuals 24 15.2999 0.63750               
+
+$Cucumber_Root$`5`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  1.2188 0.40626  0.9539 0.4304
+Residuals 24 10.2218 0.42591               
+
+$Cucumber_Root$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.1776 0.05919  0.0797 0.9704
+Residuals 24 17.8253 0.74272               
+
+$Cucumber_Root$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 18.259  6.0863  6.6115 0.002055 **
+Residuals 24 22.093  0.9206                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Root$`12`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 36.752 12.2508  7.7916 0.0008396 ***
+Residuals 24 37.736  1.5723                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Root$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 91.232  30.411  44.141 6.354e-10 ***
+Residuals 24 16.535   0.689                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Cucumber_Shoot
+$Cucumber_Shoot$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.6734 0.22446  0.5215 0.6716
+Residuals 24 10.3300 0.43042               
+
+$Cucumber_Shoot$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.3255 0.10850  0.3827 0.7663
+Residuals 24 6.8034 0.28347               
+
+$Cucumber_Shoot$`5`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.6013 0.20044  0.6791 0.5734
+Residuals 24 7.0834 0.29514               
+
+$Cucumber_Shoot$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.8343 0.27810   0.795 0.5087
+Residuals 24 8.3954 0.34981               
+
+$Cucumber_Shoot$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 23.982  7.9939  11.485 7.284e-05 ***
+Residuals 24 16.705  0.6960                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot$`12`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 29.391  9.7970   13.52 2.274e-05 ***
+Residuals 24 17.391  0.7246                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 61.277 20.4256  31.143 1.928e-08 ***
+Residuals 24 15.741  0.6559                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Maize_Root
+$Maize_Root$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.4681 0.15602  1.1002 0.3683
+Residuals 24 3.4036 0.14182               
+
+$Maize_Root$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.8522 0.28406  0.5512 0.6522
+Residuals 24 12.3676 0.51532               
+
+$Maize_Root$`4`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  1.2925 0.43082  0.7651 0.5248
+Residuals 24 13.5140 0.56308               
+
+$Maize_Root$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.8029 0.26762  0.6289 0.6035
+Residuals 24 10.2136 0.42557               
+
+$Maize_Root$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 1.4042 0.46805  1.8566 0.1639
+Residuals 24 6.0503 0.25210               
+
+$Maize_Root$`11`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  2.4327 0.81089  1.3521 0.2812
+Residuals 24 14.3936 0.59973               
+
+$Maize_Root$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 2.2051 0.73504  6.2618 0.002713 **
+Residuals 24 2.8172 0.11738                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Maize_Shoot
+$Maize_Shoot$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  1.7203 0.57344   0.945 0.4345
+Residuals 24 14.5637 0.60682               
+
+$Maize_Shoot$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.3464 0.11546  0.4146  0.744
+Residuals 24 6.6835 0.27848               
+
+$Maize_Shoot$`4`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 5.1688 1.72292  6.4209 0.002389 **
+Residuals 24 6.4399 0.26833                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+Treatment  3 2.9124 0.97079  2.8546 0.05834 .
+Residuals 24 8.1619 0.34008                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 8.1765 2.72551  22.783 3.334e-07 ***
+Residuals 24 2.8711 0.11963                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$`11`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 8.6452 2.88172  19.949 1.045e-06 ***
+Residuals 24 3.4669 0.14445                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment  3 3.3416 1.11387  16.118 5.955e-06 ***
+Residuals 24 1.6586 0.06911                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Barley_Root
+$Barley_Root$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.9258 0.30860  0.5142 0.6764
+Residuals 24 14.4026 0.60011               
+
+$Barley_Root$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 21.034  7.0113   5.187 0.006635 **
+Residuals 24 32.441  1.3517                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Root$`4`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 10.140  3.3800  1.8988 0.1568
+Residuals 24 42.721  1.7801               
+
+$Barley_Root$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+Treatment  3 13.743  4.5810  2.8839 0.05665 .
+Residuals 24 38.123  1.5884                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Root$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  4.997  1.6658  0.8266 0.4922
+Residuals 24 48.367  2.0153               
+
+$Barley_Root$`11`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 13.185  4.3949   6.378 0.002472 **
+Residuals 24 16.538  0.6891                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Root$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Treatment  3 15.370  5.1232  5.8947 0.003657 **
+Residuals 24 20.859  0.8691                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Barley_Shoot
+$Barley_Shoot$`0`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  0.2588 0.08627  0.1898 0.9023
+Residuals 24 10.9089 0.45454               
+
+$Barley_Shoot$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  3.3171 1.10570  1.3166 0.2921
+Residuals 24 20.1558 0.83983               
+
+$Barley_Shoot$`4`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.4648 0.15493  0.4647 0.7096
+Residuals 24 8.0017 0.33341               
+
+$Barley_Shoot$`7`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.9773 0.32576  1.4361 0.2569
+Residuals 24 5.4439 0.22683               
+
+$Barley_Shoot$`9`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq  Mean Sq F value Pr(>F)
+Treatment  3 0.2196 0.073195  0.4366 0.7288
+Residuals 24 4.0232 0.167633               
+
+$Barley_Shoot$`11`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.7281 0.24269  1.4137 0.2632
+Residuals 24 4.1201 0.17167               
+
+$Barley_Shoot$`14`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3 0.39598 0.13199  1.2751 0.3054
+Residuals 24 2.48449 0.10352               
+
+

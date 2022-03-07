@@ -1,96 +1,96 @@
-$Barley_Root;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;57.36;19.12;15.0482;1.01E-08;***;;
-Time;6;1898.83;316.47;249.0839;<;2.20E-16;***;
-Treatment:Time;18;22.04;1.22;0.9635;0.5041;;;
-Residuals;168;213.45;1.27;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Barley_Shoot;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;1.49;0.497;1.5154;0.2124;;;
-Time;6;1513.14;252.19;768.394;<2e-16;***;;
-Treatment:Time;18;4.87;0.271;0.8243;0.6699;;;
-Residuals;168;55.14;0.328;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Cucumber_Root;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;71.194;23.7312;28.9872;3.72E-15;***;;
-Time;6;115.901;19.3168;23.5951;<;2.20E-16;***;
-Treatment:Time;18;81.42;4.5233;5.5252;4.39E-10;***;;
-Residuals;168;137.538;0.8187;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Cucumber_Shoot;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;56.137;18.7122;38.1286;<;2.20E-16;***;
-Time;6;87.513;14.5855;29.7199;<;2.20E-16;***;
-Treatment:Time;18;60.947;3.386;6.8994;7.32E-13;***;;
-Residuals;168;82.449;0.4908;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Maize_Root;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;0.8;0.268;0.7176;0.5427;;;
-Time;6;334.36;55.726;149.1721;<2e-16;***;;
-Treatment:Time;18;8.65;0.481;1.2869;0.2019;;;
-Residuals;168;62.76;0.374;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Maize_Shoot;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;21.28;7.095;27.1838;2.21E-14;***;;
-Time;6;363.1;60.516;231.8745;<;2.20E-16;***;
-Treatment:Time;18;9.03;0.502;1.9216;0.0171;*;;
-Residuals;168;43.85;0.261;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Tomato_Root;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;75.99;25.331;61.4799;<;2.20E-16;***;
-Time;6;521.25;86.876;210.8502;<;2.20E-16;***;
-Treatment:Time;18;48.61;2.7;6.5539;3.54E-12;***;;
-Residuals;168;69.22;0.412;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
-$Tomato_Shoot;;;;;;;;
-Analysis Of Variance Table;;;;;;;;
-;;;;;;;;
-Response:;Value;;;;;;;
-;Df;Sum;Sq;Mean;Sq;F;value;Pr(>F)
-Treatment;3;53.155;17.718;47.8028;<;2.20E-16;***;
-Time;6;194.537;32.423;87.474;<;2.20E-16;***;
-Treatment:Time;18;65.361;3.631;9.7966;<;2.20E-16;***;
-Residuals;168;62.27;0.371;;;;;
----;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;
-;;0.05;‘.’;0.1;‘ ';1;;
+$Barley_Root
+Analysis of Variance Table
+
+Response: Value
+                Df  Sum Sq Mean Sq  F value    Pr(>F)    
+Treatment        3   57.36   19.12  15.0482 1.014e-08 ***
+Time             6 1898.83  316.47 249.0839 < 2.2e-16 ***
+Treatment:Time  18   22.04    1.22   0.9635    0.5041    
+Residuals      168  213.45    1.27                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df  Sum Sq Mean Sq  F value Pr(>F)    
+Treatment        3    1.49   0.497   1.5154 0.2124    
+Time             6 1513.14 252.190 768.3940 <2e-16 ***
+Treatment:Time  18    4.87   0.271   0.8243 0.6699    
+Residuals      168   55.14   0.328                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Root
+Analysis of Variance Table
+
+Response: Value
+                Df  Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3  71.194 23.7312 28.9872 3.715e-15 ***
+Time             6 115.901 19.3168 23.5951 < 2.2e-16 ***
+Treatment:Time  18  81.420  4.5233  5.5252 4.388e-10 ***
+Residuals      168 137.538  0.8187                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3 56.137 18.7122 38.1286 < 2.2e-16 ***
+Time             6 87.513 14.5855 29.7199 < 2.2e-16 ***
+Treatment:Time  18 60.947  3.3860  6.8994 7.319e-13 ***
+Residuals      168 82.449  0.4908                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Root
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq  F value Pr(>F)    
+Treatment        3   0.80   0.268   0.7176 0.5427    
+Time             6 334.36  55.726 149.1721 <2e-16 ***
+Treatment:Time  18   8.65   0.481   1.2869 0.2019    
+Residuals      168  62.76   0.374                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq  F value    Pr(>F)    
+Treatment        3  21.28   7.095  27.1838 2.205e-14 ***
+Time             6 363.10  60.516 231.8745 < 2.2e-16 ***
+Treatment:Time  18   9.03   0.502   1.9216    0.0171 *  
+Residuals      168  43.85   0.261                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq  F value    Pr(>F)    
+Treatment        3  75.99  25.331  61.4799 < 2.2e-16 ***
+Time             6 521.25  86.876 210.8502 < 2.2e-16 ***
+Treatment:Time  18  48.61   2.700   6.5539 3.537e-12 ***
+Residuals      168  69.22   0.412                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df  Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3  53.155  17.718 47.8028 < 2.2e-16 ***
+Time             6 194.537  32.423 87.4740 < 2.2e-16 ***
+Treatment:Time  18  65.361   3.631  9.7966 < 2.2e-16 ***
+Residuals      168  62.270   0.371                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+

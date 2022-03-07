@@ -1,0 +1,408 @@
+$Tomato_Root
+$Tomato_Root$`0`
+         Value groups
+C    -31.55000      a
+P    -32.66571      b
+P/Fe -32.72857      b
+Fe   -33.18143      b
+
+$Tomato_Root$`1`
+         Value groups
+P    -33.01429      a
+C    -33.17143      a
+P/Fe -33.68857      a
+Fe   -34.25143      a
+
+$Tomato_Root$`3`
+         Value groups
+P    -35.25429      a
+C    -35.36286     ab
+P/Fe -36.08429     ab
+Fe   -36.22286      b
+
+$Tomato_Root$`7`
+         Value groups
+P    -35.46143      a
+P/Fe -36.29000      b
+C    -36.35571      b
+Fe   -37.02000      b
+
+$Tomato_Root$`9`
+         Value groups
+P    -35.30143      a
+P/Fe -36.47857      b
+C    -37.38000     bc
+Fe   -37.68286      c
+
+$Tomato_Root$`11`
+         Value groups
+P    -35.29143      a
+P/Fe -36.58714      b
+C    -37.97286      c
+Fe   -37.98714      c
+
+$Tomato_Root$`14`
+         Value groups
+P    -35.23571      a
+P/Fe -36.27571      b
+C    -37.51429      c
+Fe   -38.14000      d
+
+
+$Tomato_Shoot
+$Tomato_Shoot$`0`
+         Value groups
+C    -34.16286      a
+P/Fe -35.28429     ab
+Fe   -35.50143      b
+P    -35.63286      b
+
+$Tomato_Shoot$`1`
+         Value groups
+P/Fe -35.82857      a
+C    -36.83857     ab
+P    -37.20571     ab
+Fe   -37.45000      b
+
+$Tomato_Shoot$`3`
+         Value groups
+P/Fe -37.84857      a
+Fe   -38.17286      a
+P    -38.27000      a
+C    -38.30143      a
+
+$Tomato_Shoot$`7`
+         Value groups
+P    -36.85286      a
+P/Fe -37.18000      a
+C    -37.91429      b
+Fe   -38.01857      b
+
+$Tomato_Shoot$`9`
+         Value groups
+P    -36.77714      a
+P/Fe -37.29143      a
+Fe   -38.58000      b
+C    -38.74429      b
+
+$Tomato_Shoot$`11`
+         Value groups
+P    -36.69143      a
+P/Fe -37.35000      b
+Fe   -39.03429      c
+C    -39.35429      c
+
+$Tomato_Shoot$`14`
+         Value groups
+P    -36.72000      a
+P/Fe -36.87286      a
+C    -39.02286      b
+Fe   -39.11286      b
+
+
+$Cucumber_Root
+$Cucumber_Root$`0`
+         Value groups
+P/Fe -33.05000      a
+P    -33.32286      a
+C    -33.71571      a
+Fe   -34.04429      a
+
+$Cucumber_Root$`2`
+         Value groups
+Fe   -33.92429      a
+P    -34.14714      a
+P/Fe -34.36143      a
+C    -34.38286      a
+
+$Cucumber_Root$`5`
+         Value groups
+P/Fe -34.63286      a
+P    -34.82286      a
+Fe   -34.95000      a
+C    -35.20714      a
+
+$Cucumber_Root$`7`
+         Value groups
+P/Fe -34.15714      a
+C    -34.17714      a
+P    -34.23286      a
+Fe   -34.36143      a
+
+$Cucumber_Root$`9`
+         Value groups
+P    -32.88286      a
+P/Fe -32.94571     ab
+Fe   -34.31000     bc
+C    -34.70000      c
+
+$Cucumber_Root$`12`
+         Value groups
+P    -32.32000      a
+P/Fe -32.40714      a
+Fe   -34.61857      b
+C    -34.68857      b
+
+$Cucumber_Root$`14`
+         Value groups
+P    -30.04286      a
+P/Fe -30.92286      a
+C    -33.67143      b
+Fe   -34.34286      b
+
+
+$Cucumber_Shoot
+$Cucumber_Shoot$`0`
+         Value groups
+P/Fe -34.35857      a
+P    -34.57571      a
+C    -34.65000      a
+Fe   -34.78714      a
+
+$Cucumber_Shoot$`2`
+         Value groups
+P/Fe -35.11286      a
+C    -35.22857      a
+P    -35.32000      a
+Fe   -35.40286      a
+
+$Cucumber_Shoot$`5`
+         Value groups
+P/Fe -35.76000      a
+P    -35.96857      a
+Fe   -35.99714      a
+C    -36.17286      a
+
+$Cucumber_Shoot$`7`
+         Value groups
+P/Fe -35.93571      a
+C    -36.20000      a
+P    -36.27714      a
+Fe   -36.40857      a
+
+$Cucumber_Shoot$`9`
+         Value groups
+P    -34.15286      a
+P/Fe -34.53000      a
+Fe   -36.13143      b
+C    -36.21286      b
+
+$Cucumber_Shoot$`12`
+         Value groups
+P    -33.78429      a
+P/Fe -34.63571     ab
+C    -35.88286     bc
+Fe   -36.38857      c
+
+$Cucumber_Shoot$`14`
+         Value groups
+P    -32.41571      a
+P/Fe -32.91000      a
+Fe   -35.51714      b
+C    -35.68000      b
+
+
+$Maize_Root
+$Maize_Root$`0`
+         Value groups
+C    -12.20714      a
+P/Fe -12.24571      a
+Fe   -12.48286      a
+P    -12.48429      a
+
+$Maize_Root$`2`
+         Value groups
+P    -13.21714      a
+Fe   -13.43143      a
+C    -13.43143      a
+P/Fe -13.70857      a
+
+$Maize_Root$`4`
+         Value groups
+P    -13.28143      a
+C    -13.58286      a
+Fe   -13.63571      a
+P/Fe -13.88571      a
+
+$Maize_Root$`7`
+         Value groups
+Fe   -14.47000      a
+C    -14.59571      a
+P/Fe -14.82857      a
+P    -14.88571      a
+
+$Maize_Root$`9`
+         Value groups
+Fe   -15.26286      a
+P/Fe -15.28000      a
+C    -15.66000      a
+P    -15.76571      a
+
+$Maize_Root$`11`
+         Value groups
+Fe   -15.19714      a
+P/Fe -15.37143      a
+P    -15.54000      a
+C    -15.99000      a
+
+$Maize_Root$`14`
+         Value groups
+P    -15.98571      a
+C    -16.17857      a
+Fe   -16.41143     ab
+P/Fe -16.73857      b
+
+
+$Maize_Shoot
+$Maize_Shoot$`0`
+         Value groups
+P/Fe -12.89429      a
+Fe   -13.25571      a
+C    -13.42000      a
+P    -13.55714      a
+
+$Maize_Shoot$`2`
+         Value groups
+P/Fe -15.70429      a
+P    -15.82143      a
+C    -15.96714      a
+Fe   -15.97143      a
+
+$Maize_Shoot$`4`
+         Value groups
+Fe   -15.24571      a
+P/Fe -15.72143     ab
+P    -16.20143      b
+C    -16.33571      b
+
+$Maize_Shoot$`7`
+         Value groups
+Fe   -16.11571      a
+P/Fe -16.34857      a
+C    -16.84857      a
+P    -16.86286      a
+
+$Maize_Shoot$`9`
+         Value groups
+Fe   -16.61286      a
+P/Fe -16.94143      a
+C    -17.77714      b
+P    -17.88286      b
+
+$Maize_Shoot$`11`
+         Value groups
+Fe   -16.34286      a
+P/Fe -17.20143      b
+P    -17.46000     bc
+C    -17.85857      c
+
+$Maize_Shoot$`14`
+         Value groups
+Fe   -17.15000      a
+P/Fe -17.31286      a
+C    -17.85571      b
+P    -17.96143      b
+
+
+$Barley_Root
+$Barley_Root$`0`
+         Value groups
+C    -27.37000      a
+P/Fe -27.48714      a
+Fe   -27.71429      a
+P    -27.83143      a
+
+$Barley_Root$`2`
+         Value groups
+C    -28.73714      a
+Fe   -28.78286      a
+P    -29.84000     ab
+P/Fe -30.84286      b
+
+$Barley_Root$`4`
+         Value groups
+C    -31.50429      a
+Fe   -31.69857      a
+P/Fe -32.44000      a
+P    -33.01286      a
+
+$Barley_Root$`7`
+         Value groups
+Fe   -33.32000      a
+C    -34.00143     ab
+P    -34.65286     ab
+P/Fe -35.18857      b
+
+$Barley_Root$`9`
+         Value groups
+C    -34.75143      a
+Fe   -34.92714      a
+P    -35.18143      a
+P/Fe -35.86286      a
+
+$Barley_Root$`11`
+         Value groups
+Fe   -34.30571      a
+C    -34.87429     ab
+P    -35.89286      b
+P/Fe -35.91143      b
+
+$Barley_Root$`14`
+         Value groups
+Fe   -35.74857      a
+C    -36.55000     ab
+P    -37.31000      b
+P/Fe -37.67714      b
+
+
+$Barley_Shoot
+$Barley_Shoot$`0`
+         Value groups
+Fe   -30.89571      a
+P    -31.05429      a
+P/Fe -31.06429      a
+C    -31.16429      a
+
+$Barley_Shoot$`2`
+         Value groups
+C    -32.73429      a
+Fe   -33.39571      a
+P    -33.56286      a
+P/Fe -33.57714      a
+
+$Barley_Shoot$`4`
+         Value groups
+Fe   -35.33000      a
+P    -35.41000      a
+C    -35.51571      a
+P/Fe -35.67429      a
+
+$Barley_Shoot$`7`
+         Value groups
+Fe   -37.16143      a
+C    -37.21286      a
+P    -37.44000      a
+P/Fe -37.62857      a
+
+$Barley_Shoot$`9`
+         Value groups
+Fe   -37.93857      a
+C    -38.11286      a
+P/Fe -38.15000      a
+P    -38.15571      a
+
+$Barley_Shoot$`11`
+         Value groups
+Fe   -38.20714      a
+C    -38.23714      a
+P/Fe -38.46857      a
+P    -38.59429      a
+
+$Barley_Shoot$`14`
+         Value groups
+P/Fe -39.06857      a
+P    -39.10286      a
+Fe   -39.31571      a
+C    -39.32857      a
+
+

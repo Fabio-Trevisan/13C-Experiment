@@ -1,328 +1,334 @@
-$Tomato_Root;;;;;;;;;;;;;
-$Tomato_Root$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;206.76;206.757;172.14;<;2.20E-16;***;;;;;;
-Residuals;47;56.45;1.201;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘ ';1;
-;;;;;;;;;;;;;
-$Tomato_Root$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;135.818;135.818;216.43;<;2.20E-16;***;;;;;;
-Residuals;47;29.494;0.628;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;35.27;35.27;35.359;3.24E-07;***;;;;;;;
-Residuals;47;46.881;0.997;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Root$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;64.981;64.981;48.148;1.01E-08;***;;;;;;;
-Residuals;47;63.431;1.35;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Tomato_Shoot;;;;;;;;;;;;;
-$Tomato_Shoot$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;87.318;87.318;72.602;4.30E-11;***;;;;;;;
-Residuals;47;56.527;1.203;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;45.76;45.76;71.789;5.06E-11;***;;;;;;;
-Residuals;47;29.959;0.637;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Tomato_Shoot$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;0.032;0.03159;0.0376;0.8471;;;;;;;;
-Residuals;47;39.5;0.84042;;;;;;;;;;
-;;;;;;;;;;;;;
-$Tomato_Shoot$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;10.643;10.6434;9.541;0.003369;**;;;;;;;
-Residuals;47;52.431;1.1156;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root;;;;;;;;;;;;;
-$Cucumber_Root$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;0.002;0.00187;0.0022;0.963;;;;;;;;
-Residuals;47;40.384;0.85923;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;0.8225;0.82253;1.6934;0.1995;;;;;;;;
-Residuals;47;22.8295;0.48573;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Root$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;58.075;58.075;32.51;7.59E-07;***;;;;;;;
-Residuals;47;83.961;1.786;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Root$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;35.269;35.269;17.726;0.0001142;***;;;;;;;
-Residuals;47;93.515;1.99;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Cucumber_Shoot;;;;;;;;;;;;;
-$Cucumber_Shoot$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;5.0052;5.0052;9.2455;0.003852;**;;;;;;;
-Residuals;47;25.4442;0.5414;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Shoot$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;4.7671;4.7671;10.464;0.002231;**;;;;;;;
-Residuals;47;21.4118;0.4556;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Shoot$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;31.345;31.345;22.731;1.84E-05;***;;;;;;;
-Residuals;47;64.81;1.3789;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Cucumber_Shoot$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;10.077;10.0769;6.9599;0.01127;*;;;;;;;
-Residuals;47;68.049;1.4479;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Root;;;;;;;;;;;;;
-$Maize_Root$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;90.375;90.375;267.17;<;2.20E-16;***;;;;;;
-Residuals;47;15.898;0.338;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Root$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;72.403;72.403;139.07;1.20E-15;***;;;;;;;
-Residuals;47;24.469;0.521;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Root$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;78.369;78.369;168.05;<;2.20E-16;***;;;;;;
-Residuals;47;21.918;0.466;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Root$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;83.321;83.321;205.9;<;2.20E-16;***;;;;;;
-Residuals;47;19.02;0.405;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Maize_Shoot;;;;;;;;;;;;;
-$Maize_Shoot$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;82.934;82.934;120.32;1.49E-14;***;;;;;;;
-Residuals;47;32.397;0.689;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;47.01;47.01;71.944;4.91E-11;***;;;;;;;
-Residuals;47;30.711;0.653;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;80.749;80.749;127.43;5.56E-15;***;;;;;;;
-Residuals;47;29.783;0.634;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Maize_Shoot$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;73.845;73.845;90.057;1.69E-12;***;;;;;;;
-Residuals;47;38.539;0.82;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Root;;;;;;;;;;;;;
-$Barley_Root$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;463.6;463.6;267.72;<;2.20E-16;***;;;;;;
-Residuals;47;81.39;1.73;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Root$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;366.33;366.33;162.44;<;2.20E-16;***;;;;;;
-Residuals;47;105.99;2.26;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Root$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;451.45;451.45;262.85;<;2.20E-16;***;;;;;;
-Residuals;47;80.72;1.72;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Root$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;484.98;484.98;228.24;<;2.20E-16;***;;;;;;
-Residuals;47;99.87;2.12;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-$Barley_Shoot;;;;;;;;;;;;;
-$Barley_Shoot$C;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;359.55;359.55;331.49;<;2.20E-16;***;;;;;;
-Residuals;47;50.98;1.08;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Shoot$Fe;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;347.86;347.86;335.7;<;2.20E-16;***;;;;;;
-Residuals;47;48.7;1.04;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Shoot$P;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;336.83;336.83;331.29;<;2.20E-16;***;;;;;;
-Residuals;47;47.79;1.02;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
-;;;;;;;;;;;;;
-$Barley_Shoot$`P/Fe`;;;;;;;;;;;;;
-Analysis Of Variance Table;;;;;;;;;;;;;
-;;;;;;;;;;;;;
-Response:;Value;;;;;;;;;;;;
-;Df;Sum Sq;Mean Sq;F;value;Pr(>F);;;;;;;
-Time;1;324.33;324.33;266.89;<;2.20E-16;***;;;;;;
-Residuals;47;57.11;1.22;;;;;;;;;;
----;;;;;;;;;;;;;
-Signif.;codes:;0;‘***’;0.001;‘**’;0.01;‘*’;0.05;‘.’;0.1;‘;’;1
+$Tomato_Root
+$Tomato_Root$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 247.73  41.288  112.02 < 2.2e-16 ***
+Residuals 42  15.48   0.369                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 157.987 26.3312  150.96 < 2.2e-16 ***
+Residuals 42   7.326  0.1744                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$P
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 61.602 10.2669  20.984 3.374e-11 ***
+Residuals 42 20.550  0.4893                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 102.547 17.0911  27.753 4.018e-13 ***
+Residuals 42  25.865  0.6158                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Tomato_Shoot
+$Tomato_Shoot$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 134.47 22.4125  100.47 < 2.2e-16 ***
+Residuals 42   9.37  0.2231                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 64.524 10.7541  40.349 6.865e-16 ***
+Residuals 42 11.194  0.2665                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$P
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 25.662  4.2770  12.952 3.136e-08 ***
+Residuals 42 13.869  0.3302                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 35.237  5.8728  8.8606 2.944e-06 ***
+Residuals 42 27.838  0.6628                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Cucumber_Root
+$Cucumber_Root$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)   
+Time       6 13.050 2.17505  3.3419 0.008797 **
+Residuals 42 27.335 0.65084                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Root$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Time       6  4.950 0.82499  1.8527  0.112
+Residuals 42 18.702 0.44529               
+
+$Cucumber_Root$P
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 107.791 17.9652  22.033 1.593e-11 ***
+Residuals 42  34.246  0.8154                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Root$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 71.529 11.9215  8.7452 3.395e-06 ***
+Residuals 42 57.255  1.3632                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Cucumber_Shoot
+$Cucumber_Shoot$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 14.650 2.44170   6.491 6.703e-05 ***
+Residuals 42 15.799 0.37617                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 14.903 2.48377  9.2512 1.828e-06 ***
+Residuals 42 11.276 0.26848                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot$P
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 75.802 12.6337  26.071 1.111e-12 ***
+Residuals 42 20.353  0.4846                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 43.106  7.1843  8.6161 3.987e-06 ***
+Residuals 42 35.021  0.8338                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Maize_Root
+$Maize_Root$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 95.407 15.9012  61.464 < 2.2e-16 ***
+Residuals 42 10.866  0.2587                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Root$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 74.390 12.3984  23.163 7.307e-12 ***
+Residuals 42 22.481  0.5353                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Root$P
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 85.519 14.2531  40.537 6.325e-16 ***
+Residuals 42 14.768  0.3516                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Root$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 87.695 14.6159  41.916 3.501e-16 ***
+Residuals 42 14.645  0.3487                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Maize_Shoot
+$Maize_Shoot$C
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 106.318 17.7197   82.58 < 2.2e-16 ***
+Residuals 42   9.012  0.2146                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 67.804 11.3007   47.86 < 2.2e-16 ***
+Residuals 42  9.917  0.2361                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$P
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 100.118 16.6864  67.299 < 2.2e-16 ***
+Residuals 42  10.414  0.2479                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 97.882 16.3136  47.245 < 2.2e-16 ***
+Residuals 42 14.503  0.3453                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Barley_Root
+$Barley_Root$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 495.73  82.622  70.456 < 2.2e-16 ***
+Residuals 42  49.25   1.173                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Root$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value   Pr(>F)    
+Time       6 403.17  67.195  40.813 5.61e-16 ***
+Residuals 42  69.15   1.646                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Root$P
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 490.54  81.757  82.481 < 2.2e-16 ***
+Residuals 42  41.63   0.991                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Root$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 531.43  88.571  69.639 < 2.2e-16 ***
+Residuals 42  53.42   1.272                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+$Barley_Shoot
+$Barley_Shoot$C
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 394.03  65.671  167.14 < 2.2e-16 ***
+Residuals 42  16.50   0.393                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Shoot$Fe
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 379.74   63.29  158.08 < 2.2e-16 ***
+Residuals 42  16.82    0.40                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Shoot$P
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 375.04  62.507  274.21 < 2.2e-16 ***
+Residuals 42   9.57   0.228                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Shoot$`P/Fe`
+Analysis of Variance Table
+
+Response: Value
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 369.19  61.532  211.03 < 2.2e-16 ***
+Residuals 42  12.25   0.292                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
