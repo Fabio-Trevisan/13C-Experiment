@@ -69,8 +69,11 @@ TwoWay_Anova <- lapply(split(table, table$Species_Tissue), function(i){
   anova(lm(Value ~ Treatment * Time, data = i))
 })
 View(TwoWay_Anova[["Species_Tissue"]])
-write.table(TwoWay_Anova, file = "TwoWay_Anova_results.csv", quote = FALSE, sep = ";")
+write.table(TwoWay_Anova, file = "13C_TwoWay_Anova_results.csv", quote = FALSE, sep = ";")
 
+sink("13C_TwoWay_Anova_results2.csv")
+TwoWay_Anova
+sink(NULL)
 
 
 #1way ANOVA ####
@@ -107,11 +110,11 @@ OneWay_Anova_Ti2 <- lapply(vector_Species_Tissue, function(m){
 names(OneWay_Anova_Ti2) <- vector_Species_Tissue
 
 ##OneWayAnova save
-  sink("OneWayAnova_Results_Tr.csv")
+  sink("13C_OneWayAnova_Results_Tr.csv")
   OneWay_Anova_Tr2 
   sink(NULL)
   
-  sink("OneWayAnova_Results_Ti.csv")
+  sink("13C_OneWayAnova_Results_Ti.csv")
   OneWay_Anova_Ti2 
   sink(NULL)
 
@@ -154,7 +157,7 @@ for(i in vector_Species_Tissue) {
   list <- names(OneWay_Anova_Tr[[i]]) 
   names(HSD_Tr_groups[[i]]) <- list
 }
-sink("HSD_Tr.csv")
+sink("13C_HSD_Tr.csv")
 HSD_Tr_groups 
 sink(NULL)
 
@@ -169,6 +172,6 @@ for(i in vector_Species_Tissue) {
   list <- names(OneWay_Anova_Ti[[i]]) 
   names(HSD_Ti_groups[[i]]) <- list
 }
-sink("HSD_Ti.csv")
+sink("13C_HSD_Ti.csv")
 HSD_Ti_groups 
 sink(NULL)
