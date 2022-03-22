@@ -143,11 +143,19 @@ $Cucumber_Root$`0`
 Analysis of Variance Table
 
 Response: Value
+          Df Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  3.854  1.2846  0.9165 0.4478
+Residuals 24 33.638  1.4016               
+
+$Cucumber_Root$`2`
+Analysis of Variance Table
+
+Response: Value
           Df  Sum Sq Mean Sq F value Pr(>F)
 Treatment  3  4.0057 1.33524  1.7976 0.1746
 Residuals 24 17.8269 0.74279               
 
-$Cucumber_Root$`2`
+$Cucumber_Root$`5`
 Analysis of Variance Table
 
 Response: Value
@@ -155,7 +163,7 @@ Response: Value
 Treatment  3  0.9677 0.32257   0.506 0.6818
 Residuals 24 15.2999 0.63750               
 
-$Cucumber_Root$`5`
+$Cucumber_Root$`7`
 Analysis of Variance Table
 
 Response: Value
@@ -163,7 +171,7 @@ Response: Value
 Treatment  3  1.2188 0.40626  0.9539 0.4304
 Residuals 24 10.2218 0.42591               
 
-$Cucumber_Root$`7`
+$Cucumber_Root$`9`
 Analysis of Variance Table
 
 Response: Value
@@ -171,7 +179,7 @@ Response: Value
 Treatment  3  0.1776 0.05919  0.0797 0.9704
 Residuals 24 17.8253 0.74272               
 
-$Cucumber_Root$`9`
+$Cucumber_Root$`12`
 Analysis of Variance Table
 
 Response: Value
@@ -181,23 +189,13 @@ Residuals 24 22.093  0.9206
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-$Cucumber_Root$`12`
+$Cucumber_Root$`14`
 Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
 Treatment  3 36.752 12.2508  7.7916 0.0008396 ***
 Residuals 24 37.736  1.5723                      
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-$Cucumber_Root$`14`
-Analysis of Variance Table
-
-Response: Value
-          Df Sum Sq Mean Sq F value    Pr(>F)    
-Treatment  3 91.232  30.411  44.141 6.354e-10 ***
-Residuals 24 16.535   0.689                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -208,10 +206,18 @@ Analysis of Variance Table
 
 Response: Value
           Df  Sum Sq Mean Sq F value Pr(>F)
+Treatment  3  2.5145 0.83816   0.902 0.4547
+Residuals 24 22.3005 0.92919               
+
+$Cucumber_Shoot$`2`
+Analysis of Variance Table
+
+Response: Value
+          Df  Sum Sq Mean Sq F value Pr(>F)
 Treatment  3  0.6734 0.22446  0.5215 0.6716
 Residuals 24 10.3300 0.43042               
 
-$Cucumber_Shoot$`2`
+$Cucumber_Shoot$`5`
 Analysis of Variance Table
 
 Response: Value
@@ -219,7 +225,7 @@ Response: Value
 Treatment  3 0.3255 0.10850  0.3827 0.7663
 Residuals 24 6.8034 0.28347               
 
-$Cucumber_Shoot$`5`
+$Cucumber_Shoot$`7`
 Analysis of Variance Table
 
 Response: Value
@@ -227,7 +233,7 @@ Response: Value
 Treatment  3 0.6013 0.20044  0.6791 0.5734
 Residuals 24 7.0834 0.29514               
 
-$Cucumber_Shoot$`7`
+$Cucumber_Shoot$`9`
 Analysis of Variance Table
 
 Response: Value
@@ -235,7 +241,7 @@ Response: Value
 Treatment  3 0.8343 0.27810   0.795 0.5087
 Residuals 24 8.3954 0.34981               
 
-$Cucumber_Shoot$`9`
+$Cucumber_Shoot$`12`
 Analysis of Variance Table
 
 Response: Value
@@ -245,23 +251,13 @@ Residuals 24 16.705  0.6960
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
-$Cucumber_Shoot$`12`
+$Cucumber_Shoot$`14`
 Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
 Treatment  3 29.391  9.7970   13.52 2.274e-05 ***
 Residuals 24 17.391  0.7246                      
----
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-
-$Cucumber_Shoot$`14`
-Analysis of Variance Table
-
-Response: Value
-          Df Sum Sq Mean Sq F value    Pr(>F)    
-Treatment  3 61.277 20.4256  31.143 1.928e-08 ***
-Residuals 24 15.741  0.6559                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 

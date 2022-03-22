@@ -103,103 +103,103 @@ Fe   -39.11286      b
 $Cucumber_Root
 $Cucumber_Root$`0`
          Value groups
+C    -31.26429      a
+Fe   -31.51714      a
+P    -31.54000      a
+P/Fe -32.26000      a
+
+$Cucumber_Root$`2`
+         Value groups
 P/Fe -33.05000      a
 P    -33.32286      a
 C    -33.71571      a
 Fe   -34.04429      a
 
-$Cucumber_Root$`2`
+$Cucumber_Root$`5`
          Value groups
 Fe   -33.92429      a
 P    -34.14714      a
 P/Fe -34.36143      a
 C    -34.38286      a
 
-$Cucumber_Root$`5`
+$Cucumber_Root$`7`
          Value groups
 P/Fe -34.63286      a
 P    -34.82286      a
 Fe   -34.95000      a
 C    -35.20714      a
 
-$Cucumber_Root$`7`
+$Cucumber_Root$`9`
          Value groups
 P/Fe -34.15714      a
 C    -34.17714      a
 P    -34.23286      a
 Fe   -34.36143      a
 
-$Cucumber_Root$`9`
+$Cucumber_Root$`12`
          Value groups
 P    -32.88286      a
 P/Fe -32.94571     ab
 Fe   -34.31000     bc
 C    -34.70000      c
 
-$Cucumber_Root$`12`
+$Cucumber_Root$`14`
          Value groups
 P    -32.32000      a
 P/Fe -32.40714      a
 Fe   -34.61857      b
 C    -34.68857      b
 
-$Cucumber_Root$`14`
-         Value groups
-P    -30.04286      a
-P/Fe -30.92286      a
-C    -33.67143      b
-Fe   -34.34286      b
-
 
 $Cucumber_Shoot
 $Cucumber_Shoot$`0`
+         Value groups
+Fe   -32.58571      a
+C    -32.65714      a
+P    -32.98286      a
+P/Fe -33.34143      a
+
+$Cucumber_Shoot$`2`
          Value groups
 P/Fe -34.35857      a
 P    -34.57571      a
 C    -34.65000      a
 Fe   -34.78714      a
 
-$Cucumber_Shoot$`2`
+$Cucumber_Shoot$`5`
          Value groups
 P/Fe -35.11286      a
 C    -35.22857      a
 P    -35.32000      a
 Fe   -35.40286      a
 
-$Cucumber_Shoot$`5`
+$Cucumber_Shoot$`7`
          Value groups
 P/Fe -35.76000      a
 P    -35.96857      a
 Fe   -35.99714      a
 C    -36.17286      a
 
-$Cucumber_Shoot$`7`
+$Cucumber_Shoot$`9`
          Value groups
 P/Fe -35.93571      a
 C    -36.20000      a
 P    -36.27714      a
 Fe   -36.40857      a
 
-$Cucumber_Shoot$`9`
+$Cucumber_Shoot$`12`
          Value groups
 P    -34.15286      a
 P/Fe -34.53000      a
 Fe   -36.13143      b
 C    -36.21286      b
 
-$Cucumber_Shoot$`12`
+$Cucumber_Shoot$`14`
          Value groups
 P    -33.78429      a
 P/Fe -34.63571     ab
 C    -35.88286     bc
 Fe   -36.38857      c
-
-$Cucumber_Shoot$`14`
-         Value groups
-P    -32.41571      a
-P/Fe -32.91000      a
-Fe   -35.51714      b
-C    -35.68000      b
 
 
 $Maize_Root

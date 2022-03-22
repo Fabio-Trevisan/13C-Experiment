@@ -87,9 +87,9 @@ $Cucumber_Root$C
 Analysis of Variance Table
 
 Response: Value
-          Df Sum Sq Mean Sq F value   Pr(>F)   
-Time       6 13.050 2.17505  3.3419 0.008797 **
-Residuals 42 27.335 0.65084                    
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 71.131  11.855  17.358 5.655e-10 ***
+Residuals 42 28.686   0.683                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -97,17 +97,19 @@ $Cucumber_Root$Fe
 Analysis of Variance Table
 
 Response: Value
-          Df Sum Sq Mean Sq F value Pr(>F)
-Time       6  4.950 0.82499  1.8527  0.112
-Residuals 42 18.702 0.44529               
+          Df Sum Sq Mean Sq F value   Pr(>F)    
+Time       6 53.714  8.9523  12.528 4.82e-08 ***
+Residuals 42 30.013  0.7146                     
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 $Cucumber_Root$P
 Analysis of Variance Table
 
 Response: Value
-          Df  Sum Sq Mean Sq F value    Pr(>F)    
-Time       6 107.791 17.9652  22.033 1.593e-11 ***
-Residuals 42  34.246  0.8154                      
+          Df Sum Sq Mean Sq F value    Pr(>F)    
+Time       6 56.948  9.4913  9.6459 1.141e-06 ***
+Residuals 42 41.327  0.9840                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -116,8 +118,8 @@ Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
-Time       6 71.529 11.9215  8.7452 3.395e-06 ***
-Residuals 42 57.255  1.3632                      
+Time       6 39.422  6.5704  5.0527 0.0005581 ***
+Residuals 42 54.615  1.3004                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -128,8 +130,8 @@ Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
-Time       6 14.650 2.44170   6.491 6.703e-05 ***
-Residuals 42 15.799 0.37617                      
+Time       6 71.091 11.8485  26.069 1.112e-12 ***
+Residuals 42 19.089  0.4545                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -138,8 +140,8 @@ Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
-Time       6 14.903 2.48377  9.2512 1.828e-06 ***
-Residuals 42 11.276 0.26848                      
+Time       6 78.263 13.0439  41.707 3.826e-16 ***
+Residuals 42 13.136  0.3128                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -148,8 +150,8 @@ Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
-Time       6 75.802 12.6337  26.071 1.111e-12 ***
-Residuals 42 20.353  0.4846                      
+Time       6 60.055 10.0091  16.428 1.242e-09 ***
+Residuals 42 25.590  0.6093                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -158,8 +160,8 @@ Analysis of Variance Table
 
 Response: Value
           Df Sum Sq Mean Sq F value    Pr(>F)    
-Time       6 43.106  7.1843  8.6161 3.987e-06 ***
-Residuals 42 35.021  0.8338                      
+Time       6 33.115  5.5192  7.4311 1.843e-05 ***
+Residuals 42 31.194  0.7427                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
