@@ -62,7 +62,7 @@ SW_test <- table %>%
   group_by(Time, Treatment, Species_Tissue) %>%
   shapiro_test(Value)
 View(SW_test)
-write.table(SW_test, file = "ShapiroWilk_test_results.csv", quote = FALSE, sep = ";")
+write.table(SW_test, file = "13C_ShapiroWilk_test_results.csv", quote = FALSE, sep = ";")
 
 ##3. Indipendency
 Data are indepent by experimental design!

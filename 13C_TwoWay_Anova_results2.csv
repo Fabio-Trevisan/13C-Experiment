@@ -27,10 +27,10 @@ Analysis of Variance Table
 
 Response: Value
                 Df  Sum Sq Mean Sq F value    Pr(>F)    
-Treatment        3  71.194 23.7312 28.9872 3.715e-15 ***
-Time             6 115.901 19.3168 23.5951 < 2.2e-16 ***
-Treatment:Time  18  81.420  4.5233  5.5252 4.388e-10 ***
-Residuals      168 137.538  0.8187                      
+Treatment        3  19.499  6.4996  7.0611 0.0001690 ***
+Time             6 175.479 29.2466 31.7730 < 2.2e-16 ***
+Treatment:Time  18  45.736  2.5409  2.7604 0.0003466 ***
+Residuals      168 154.641  0.9205                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
@@ -38,11 +38,11 @@ $Cucumber_Shoot
 Analysis of Variance Table
 
 Response: Value
-                Df Sum Sq Mean Sq F value    Pr(>F)    
-Treatment        3 56.137 18.7122 38.1286 < 2.2e-16 ***
-Time             6 87.513 14.5855 29.7199 < 2.2e-16 ***
-Treatment:Time  18 60.947  3.3860  6.8994 7.319e-13 ***
-Residuals      168 82.449  0.4908                      
+                Df  Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3  16.311   5.437 10.2622 3.064e-06 ***
+Time             6 200.514  33.419 63.0772 < 2.2e-16 ***
+Treatment:Time  18  42.011   2.334  4.4052 1.015e-07 ***
+Residuals      168  89.008   0.530                      
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
