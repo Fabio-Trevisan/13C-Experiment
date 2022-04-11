@@ -28,7 +28,8 @@ f2 <- ggplot(Summary_table, aes(x = Time, y = mean, group = Treatment, colour = 
   scale_color_manual(values=c("grey77", "darkorange2", "skyblue3", "slateblue3"))+
   geom_errorbar(aes(ymin = mean-se, ymax = mean+se, group = Treatment), width = 0.5) +
   theme_bw() + 
-  scale_x_continuous(breaks=seq(-17,16,1))
+  scale_x_continuous(breaks=seq(-17,14,1)) +
+  scale_y_continuous(breaks=seq(0,9,0.5))
 f2 + facet_wrap(~Species_Tissue, scales="free", ncol = 2) + 
   ylab("Fresh weight (g)") + 
   xlab("Time (Days)") 
