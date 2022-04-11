@@ -1,0 +1,96 @@
+$Barley_Root
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3 1.1453 0.38177  25.096 1.233e-13 ***
+Time             9 8.8455 0.98284  64.606 < 2.2e-16 ***
+Treatment:Time  18 0.7043 0.03913   2.572 0.0007975 ***
+Residuals      182 2.7687 0.01521                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Barley_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq  F value    Pr(>F)    
+Treatment        3  1.229  0.4097  11.2758 8.059e-07 ***
+Time             9 47.979  5.3310 146.7268 < 2.2e-16 ***
+Treatment:Time  18  0.814  0.0452   1.2447    0.2301    
+Residuals      182  6.613  0.0363                       
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Root
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value Pr(>F)    
+Treatment        3  1.693  0.5644  1.0703 0.3630    
+Time             9 92.303 10.2559 19.4481 <2e-16 ***
+Treatment:Time  18  9.394  0.5219  0.9897 0.4736    
+Residuals      182 95.977  0.5273                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Cucumber_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3  13.20   4.400  8.2202 3.687e-05 ***
+Time             9 378.23  42.026 78.5164 < 2.2e-16 ***
+Treatment:Time  18  40.98   2.277  4.2535 1.679e-07 ***
+Residuals      182  97.42   0.535                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Root
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3  3.126  1.0421  7.3533 0.0001116 ***
+Time             9 39.912  4.4346 31.2924 < 2.2e-16 ***
+Treatment:Time  18  4.336  0.2409  1.6999 0.0426153 *  
+Residuals      182 25.792  0.1417                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Maize_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value Pr(>F)    
+Treatment        3   8.80   2.932  2.0940 0.1026    
+Time             9 720.39  80.043 57.1725 <2e-16 ***
+Treatment:Time  18  17.54   0.975  0.6961 0.8124    
+Residuals      182 254.81   1.400                   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Root
+Analysis of Variance Table
+
+Response: Value
+                Df  Sum Sq  Mean Sq F value    Pr(>F)    
+Treatment        3 0.01146 0.003819  1.1271    0.3394    
+Time             9 2.55408 0.283786 83.7575 < 2.2e-16 ***
+Treatment:Time  18 0.20086 0.011159  3.2935 2.195e-05 ***
+Residuals      182 0.61665 0.003388                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+$Tomato_Shoot
+Analysis of Variance Table
+
+Response: Value
+                Df Sum Sq Mean Sq F value    Pr(>F)    
+Treatment        3  7.557  2.5192  53.993 < 2.2e-16 ***
+Time             9 38.162  4.2402  90.880 < 2.2e-16 ***
+Treatment:Time  18 23.489  1.3049  27.969 < 2.2e-16 ***
+Residuals      182  8.492  0.0467                      
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
