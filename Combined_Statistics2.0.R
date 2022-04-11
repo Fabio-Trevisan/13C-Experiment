@@ -8,21 +8,21 @@ library(purrr)
 library(agricolae)
 
 
-#BASIC_STATISTICS_2.0 ####
+#13C statistics ####
 
 
 #Read CSV ####
 table <- read.csv("DATA_13C_IRMS_R.csv", sep=";",
                   header=T)
 
-vector_Species_Tissue <- c("Tomato_Root",
-                            "Tomato_Shoot",
-                            "Cucumber_Root",
-                            "Cucumber_Shoot",
-                            "Maize_Root",
-                            "Maize_Shoot",
-                            "Barley_Root",
-                            "Barley_Shoot")
+vector_Species_Tissue <- c("Barley_Root",
+                           "Barley_Shoot",
+                           "Cucumber_Root",
+                           "Cucumber_Shoot",
+                           "Maize_Root",
+                           "Maize_Shoot",
+                           "Tomato_Root",
+                           "Tomato_Shoot")
 
 
 
@@ -38,14 +38,14 @@ names(Subsets) <- vector_Species_Tissue
 #transform variable to factor ####
 table$Time <- factor(table$Time)
 
-Subsets[["Tomato_Root"]][["Time"]] <- factor(Subsets[["Tomato_Root"]][["Time"]])
-Subsets[["Tomato_Shoot"]][["Time"]] <- factor(Subsets[["Tomato_Shoot"]][["Time"]])
 Subsets[["Barley_Root"]][["Time"]] <- factor(Subsets[["Barley_Root"]][["Time"]])
 Subsets[["Barley_Shoot"]][["Time"]] <- factor(Subsets[["Barley_Shoot"]][["Time"]])
-Subsets[["Maize_Root"]][["Time"]] <- factor(Subsets[["Maize_Root"]][["Time"]])
-Subsets[["Maize_Shoot"]][["Time"]] <- factor(Subsets[["Maize_Shoot"]][["Time"]])
 Subsets[["Cucumber_Root"]][["Time"]] <- factor(Subsets[["Cucumber_Root"]][["Time"]])
 Subsets[["Cucumber_Shoot"]][["Time"]] <- factor(Subsets[["Cucumber_Shoot"]][["Time"]])
+Subsets[["Maize_Root"]][["Time"]] <- factor(Subsets[["Maize_Root"]][["Time"]])
+Subsets[["Maize_Shoot"]][["Time"]] <- factor(Subsets[["Maize_Shoot"]][["Time"]])
+Subsets[["Tomato_Root"]][["Time"]] <- factor(Subsets[["Tomato_Root"]][["Time"]])
+Subsets[["Tomato_Shoot"]][["Time"]] <- factor(Subsets[["Tomato_Shoot"]][["Time"]])
 
 
 
