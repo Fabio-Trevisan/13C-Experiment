@@ -1,408 +1,406 @@
-$Barley_Root
-$Barley_Root$`0`
-         Value groups
-C    0.1952857      a
-Fe   0.1873714      a
-P/Fe 0.1631429      a
-P    0.1509000      a
-
-$Barley_Root$`2`
-         Value groups
-P    0.2376857      a
-P/Fe 0.2363571      a
-Fe   0.1968000      a
-C    0.1883429      a
-
-$Barley_Root$`4`
-         Value groups
-P/Fe 0.3019000      a
-P    0.2876429      a
-Fe   0.2401286      a
-C    0.2400857      a
-
-$Barley_Root$`7`
-         Value groups
-P    0.4194143      a
-P/Fe 0.3836000      a
-Fe   0.3348000      a
-C    0.2745286      a
-
-$Barley_Root$`9`
-         Value groups
-P    0.5092714      a
-Fe   0.4675429      a
-P/Fe 0.4507286      a
-C    0.3642429      a
-
-$Barley_Root$`11`
-         Value groups
-P/Fe 0.5882429      a
-P    0.5077571     ab
-C    0.4163714     ab
-Fe   0.3559857      b
-
-$Barley_Root$`14`
-         Value groups
-P    1.0626286      a
-P/Fe 0.8981857     ab
-Fe   0.7257714      b
-C    0.6195286      b
-
-
-$Barley_Shoot
-$Barley_Shoot$`0`
-         Value groups
-C    0.4287429      a
-Fe   0.3944571     ab
-P/Fe 0.3474429     ab
-P    0.3085286      b
-
-$Barley_Shoot$`2`
-         Value groups
-P/Fe 0.5341857      a
-P    0.4851143      a
-Fe   0.4751143      a
-C    0.4438143      a
-
-$Barley_Shoot$`4`
-         Value groups
-Fe   0.6552000      a
-P/Fe 0.6439286      a
-C    0.6243857      a
-P    0.6116286      a
-
-$Barley_Shoot$`7`
-         Value groups
-C    0.9324000      a
-P    0.9064714      a
-Fe   0.8996000      a
-P/Fe 0.8875571      a
-
-$Barley_Shoot$`9`
-         Value groups
-P    1.2272571      a
-Fe   1.1426286      a
-C    1.1306429      a
-P/Fe 0.9850429      a
-
-$Barley_Shoot$`11`
-        Value groups
-C    1.442471      a
-P/Fe 1.322886      a
-P    1.242014      a
-Fe   1.178357      a
-
-$Barley_Shoot$`14`
-        Value groups
-C    1.821943      a
-P    1.780529      a
-Fe   1.747771      a
-P/Fe 1.513357      a
-
-
-$Cucumber_Root
-$Cucumber_Root$`0`
-         Value groups
-P/Fe 0.3323714      a
-P    0.2712429      a
-C    0.2527429      a
-Fe   0.2439143      a
-
-$Cucumber_Root$`2`
-         Value groups
-Fe   0.5024143      a
-P/Fe 0.4462429      a
-C    0.4390143      a
-P    0.4216714      a
-
-$Cucumber_Root$`5`
-         Value groups
-P/Fe 0.8495857      a
-C    0.8330857      a
-P    0.7620286      a
-Fe   0.5684286      a
-
-$Cucumber_Root$`7`
-         Value groups
-C    1.4160714      a
-P    0.9604571      a
-P/Fe 0.8493000      a
-Fe   0.7192429      a
-
-$Cucumber_Root$`9`
-        Value groups
-Fe   1.155314      a
-P/Fe 1.122300      a
-C    1.073843      a
-P    0.931900      a
-
-$Cucumber_Root$`12`
-        Value groups
-P    2.440086      a
-C    2.186143      a
-Fe   1.221100      a
-P/Fe 1.148629      a
-
-$Cucumber_Root$`14`
-        Value groups
-P    2.199986      a
-C    2.169629      a
-P/Fe 2.147686      a
-Fe   2.087929      a
-
-
-$Cucumber_Shoot
-$Cucumber_Shoot$`0`
-         Value groups
-P/Fe 1.0025714      a
-C    0.9316571      a
-P    0.8779714      a
-Fe   0.8127429      a
-
-$Cucumber_Shoot$`2`
-        Value groups
-Fe   1.343114      a
-P/Fe 1.227300      a
-C    1.222171      a
-P    1.182443      a
-
-$Cucumber_Shoot$`5`
-        Value groups
-Fe   2.034229      a
-C    1.961000      a
-P    1.764271      a
-P/Fe 1.648614      a
-
-$Cucumber_Shoot$`7`
-        Value groups
-C    2.640414      a
-P    2.131329     ab
-Fe   2.093614     ab
-P/Fe 1.922271      b
-
-$Cucumber_Shoot$`9`
-        Value groups
-Fe   2.914614      a
-C    2.858086      a
-P    2.425143      a
-P/Fe 1.784071      a
-
-$Cucumber_Shoot$`12`
-        Value groups
-C    5.787986      a
-Fe   4.101071      b
-P    2.925214      b
-P/Fe 2.908343      b
-
-$Cucumber_Shoot$`14`
-        Value groups
-Fe   5.423671      a
-C    5.262943     ab
-P    3.785757     ab
-P/Fe 3.268943      b
-
-
-$Maize_Root
-$Maize_Root$`0`
-         Value groups
-C    0.5123286      a
-P    0.3803286     ab
-P/Fe 0.3754143     ab
-Fe   0.2549571      b
-
-$Maize_Root$`2`
-         Value groups
-P    0.6230857      a
-P/Fe 0.6182143      a
-C    0.5744714      a
-Fe   0.5677286      a
-
-$Maize_Root$`4`
-         Value groups
-Fe   0.7680286      a
-P    0.6997286      a
-P/Fe 0.6515429      a
-C    0.6053143      a
-
-$Maize_Root$`7`
-         Value groups
-P    0.8121286      a
-C    0.7213000      a
-Fe   0.7186714      a
-P/Fe 0.6519714      a
-
-$Maize_Root$`9`
-         Value groups
-Fe   1.0590000      a
-P/Fe 1.0581143      a
-C    0.9128571      a
-P    0.8504429      a
-
-$Maize_Root$`11`
-        Value groups
-Fe   1.403571      a
-P/Fe 1.234457      a
-P    1.047586      a
-C    1.030743      a
-
-$Maize_Root$`14`
-        Value groups
-P/Fe 2.302943      a
-P    1.873743     ab
-Fe   1.721086     ab
-C    1.264186      b
-
-
-$Maize_Shoot
-$Maize_Shoot$`0`
-         Value groups
-C    1.1436714      a
-P    0.6988143     ab
-Fe   0.5913429      b
-P/Fe 0.5602714      b
-
-$Maize_Shoot$`2`
-        Value groups
-P    1.660314      a
-Fe   1.589571      a
-C    1.488657      a
-P/Fe 1.459329      a
-
-$Maize_Shoot$`4`
-        Value groups
-P    2.121371      a
-Fe   1.939571      a
-C    1.807871      a
-P/Fe 1.750743      a
-
-$Maize_Shoot$`7`
-        Value groups
-C    2.530957      a
-Fe   2.516457      a
-P    2.473714      a
-P/Fe 1.708514      a
-
-$Maize_Shoot$`9`
-        Value groups
-Fe   3.245171      a
-C    3.042886      a
-P/Fe 2.814000      a
-P    2.756971      a
-
-$Maize_Shoot$`11`
-        Value groups
-Fe   4.094400      a
-C    4.013900      a
-P    3.920586      a
-P/Fe 3.607186      a
-
-$Maize_Shoot$`14`
-        Value groups
-C    7.642914      a
-P    7.036529      a
-P/Fe 6.222800      a
-Fe   5.606957      a
-
-
-$Tomato_Root
-$Tomato_Root$`0`
-          Value groups
-P    0.01661429      a
-Fe   0.01654286      a
-P/Fe 0.01261429      a
-C    0.01230000      a
-
-$Tomato_Root$`1`
-          Value groups
-Fe   0.01775714      a
-C    0.01424286      a
-P    0.01415714      a
-P/Fe 0.01214286      a
-
-$Tomato_Root$`3`
-          Value groups
-P    0.04712857      a
-P/Fe 0.03621429     ab
-Fe   0.03447143     ab
-C    0.02770000      b
-
-$Tomato_Root$`7`
-          Value groups
-Fe   0.09408571      a
-P/Fe 0.09134286      a
-P    0.09091429      a
-C    0.08294286      a
-
-$Tomato_Root$`9`
-         Value groups
-P    0.1817714      a
-C    0.1342857     ab
-Fe   0.1304000     ab
-P/Fe 0.1175429      b
-
-$Tomato_Root$`11`
-         Value groups
-C    0.2806286      a
-Fe   0.2239286      a
-P/Fe 0.2018286      a
-P    0.1916571      a
-
-$Tomato_Root$`14`
-         Value groups
-C    0.4606000      a
-P    0.3011857     ab
-Fe   0.2996571     ab
-P/Fe 0.2317714      b
-
-
-$Tomato_Shoot
-$Tomato_Shoot$`0`
-          Value groups
-Fe   0.12761429      a
-P/Fe 0.10535714      a
-C    0.09778571      a
-P    0.09080000      a
-
-$Tomato_Shoot$`1`
-         Value groups
-Fe   0.1506714      a
-P    0.1467857      a
-C    0.1379000      a
-P/Fe 0.1085571      a
-
-$Tomato_Shoot$`3`
-         Value groups
-P    0.2469857      a
-Fe   0.2285571      a
-C    0.2277143      a
-P/Fe 0.2008714      a
-
-$Tomato_Shoot$`7`
-         Value groups
-C    0.6053429      a
-Fe   0.4453000      b
-P    0.3522286     bc
-P/Fe 0.2984000      c
-
-$Tomato_Shoot$`9`
-         Value groups
-C    1.0111429      a
-Fe   0.5668000      b
-P    0.4990857     bc
-P/Fe 0.3061714      c
-
-$Tomato_Shoot$`11`
-         Value groups
-C    1.9183286      a
-Fe   0.8226429      b
-P    0.5252857     bc
-P/Fe 0.4020857      c
-
-$Tomato_Shoot$`14`
-         Value groups
-C    2.7797286      a
-Fe   0.9473000      b
-P    0.5254571      b
-P/Fe 0.3337000      b
-
-
+$Barley_Root;;
+$Barley_Root$`0`;;
+;Value;groups
+C;0.1952857;a
+Fe;0.1873714;a
+P/Fe;0.1631429;a
+P;0.1509;a
+;;
+$Barley_Root$`2`;;
+;Value;groups
+P;0.2376857;a
+P/Fe;0.2363571;a
+Fe;0.1968;a
+C;0.1883429;a
+;;
+$Barley_Root$`4`;;
+;Value;groups
+P/Fe;0.3019;a
+P;0.2876429;a
+Fe;0.2401286;a
+C;0.2400857;a
+;;
+$Barley_Root$`7`;;
+;Value;groups
+P;0.4194143;a
+P/Fe;0.3836;a
+Fe;0.3348;a
+C;0.2745286;a
+;;
+$Barley_Root$`9`;;
+;Value;groups
+P;0.5092714;a
+Fe;0.4675429;a
+P/Fe;0.4507286;a
+C;0.3642429;a
+;;
+$Barley_Root$`11`;;
+;Value;groups
+P/Fe;0.5882429;a
+P;0.5077571;ab
+C;0.4163714;ab
+Fe;0.3559857;b
+;;
+$Barley_Root$`14`;;
+;Value;groups
+P;1.0626286;a
+P/Fe;0.8981857;ab
+Fe;0.7257714;b
+C;0.6195286;b
+;;
+;;
+$Barley_Shoot;;
+$Barley_Shoot$`0`;;
+;Value;groups
+C;0.4287429;a
+Fe;0.3944571;ab
+P/Fe;0.3474429;ab
+P;0.3085286;b
+;;
+$Barley_Shoot$`2`;;
+;Value;groups
+P/Fe;0.5341857;a
+P;0.4851143;a
+Fe;0.4751143;a
+C;0.4438143;a
+;;
+$Barley_Shoot$`4`;;
+;Value;groups
+Fe;0.6552;a
+P/Fe;0.6439286;a
+C;0.6243857;a
+P;0.6116286;a
+;;
+$Barley_Shoot$`7`;;
+;Value;groups
+C;0.9324;a
+P;0.9064714;a
+Fe;0.8996;a
+P/Fe;0.8875571;a
+;;
+$Barley_Shoot$`9`;;
+;Value;groups
+P;1.2272571;a
+Fe;1.1426286;a
+C;1.1306429;a
+P/Fe;0.9850429;a
+;;
+$Barley_Shoot$`11`;;
+;Value;groups
+C;1.442471;a
+P/Fe;1.322886;a
+P;1.242014;a
+Fe;1.178357;a
+;;
+$Barley_Shoot$`14`;;
+;Value;groups
+C;1.821943;a
+P;1.780529;a
+Fe;1.747771;a
+P/Fe;1.513357;a
+;;
+;;
+$Cucumber_Root;;
+$Cucumber_Root$`0`;;
+;Value;groups
+P/Fe;0.3323714;a
+P;0.2712429;a
+C;0.2527429;a
+Fe;0.2439143;a
+;;
+$Cucumber_Root$`2`;;
+;Value;groups
+Fe;0.5024143;a
+P/Fe;0.4462429;a
+C;0.4390143;a
+P;0.4216714;a
+;;
+$Cucumber_Root$`5`;;
+;Value;groups
+P/Fe;0.8495857;a
+C;0.8330857;a
+P;0.7620286;a
+Fe;0.5684286;a
+;;
+$Cucumber_Root$`7`;;
+;Value;groups
+C;1.4160714;a
+P;0.9604571;a
+P/Fe;0.8493;a
+Fe;0.7192429;a
+;;
+$Cucumber_Root$`9`;;
+;Value;groups
+Fe;1.155314;a
+P/Fe;1.1223;a
+C;1.073843;a
+P;0.9319;a
+;;
+$Cucumber_Root$`12`;;
+;Value;groups
+P;2.440086;a
+C;2.186143;a
+Fe;1.2211;a
+P/Fe;1.148629;a
+;;
+$Cucumber_Root$`14`;;
+;Value;groups
+P;2.199986;a
+C;2.169629;a
+P/Fe;2.147686;a
+Fe;2.087929;a
+;;
+;;
+$Cucumber_Shoot;;
+$Cucumber_Shoot$`0`;;
+;Value;groups
+P/Fe;1.0025714;a
+C;0.9316571;a
+P;0.8779714;a
+Fe;0.8127429;a
+;;
+$Cucumber_Shoot$`2`;;
+;Value;groups
+Fe;1.343114;a
+P/Fe;1.2273;a
+C;1.222171;a
+P;1.182443;a
+;;
+$Cucumber_Shoot$`5`;;
+;Value;groups
+Fe;2.034229;a
+C;1.961;a
+P;1.764271;a
+P/Fe;1.648614;a
+;;
+$Cucumber_Shoot$`7`;;
+;Value;groups
+C;2.640414;a
+P;2.131329;ab
+Fe;2.093614;ab
+P/Fe;1.922271;b
+;;
+$Cucumber_Shoot$`9`;;
+;Value;groups
+Fe;2.914614;a
+C;2.858086;a
+P;2.425143;a
+P/Fe;1.784071;a
+;;
+$Cucumber_Shoot$`12`;;
+;Value;groups
+C;5.787986;a
+Fe;4.101071;b
+P;2.925214;b
+P/Fe;2.908343;b
+;;
+$Cucumber_Shoot$`14`;;
+;Value;groups
+Fe;5.423671;a
+C;5.262943;ab
+P;3.785757;ab
+P/Fe;3.268943;b
+;;
+;;
+$Maize_Root;;
+$Maize_Root$`0`;;
+;Value;groups
+C;0.5123286;a
+P;0.3803286;ab
+P/Fe;0.3754143;ab
+Fe;0.2549571;b
+;;
+$Maize_Root$`2`;;
+;Value;groups
+P;0.6230857;a
+P/Fe;0.6182143;a
+C;0.5744714;a
+Fe;0.5677286;a
+;;
+$Maize_Root$`4`;;
+;Value;groups
+Fe;0.7680286;a
+P;0.6997286;a
+P/Fe;0.6515429;a
+C;0.6053143;a
+;;
+$Maize_Root$`7`;;
+;Value;groups
+P;0.8121286;a
+C;0.7213;a
+Fe;0.7186714;a
+P/Fe;0.6519714;a
+;;
+$Maize_Root$`9`;;
+;Value;groups
+Fe;1.059;a
+P/Fe;1.0581143;a
+C;0.9128571;a
+P;0.8504429;a
+;;
+$Maize_Root$`11`;;
+;Value;groups
+Fe;1.403571;a
+P/Fe;1.234457;a
+P;1.047586;a
+C;1.030743;a
+;;
+$Maize_Root$`14`;;
+;Value;groups
+P/Fe;2.302943;a
+P;1.873743;ab
+Fe;1.721086;ab
+C;1.264186;b
+;;
+;;
+$Maize_Shoot;;
+$Maize_Shoot$`0`;;
+;Value;groups
+C;1.1436714;a
+P;0.6988143;ab
+Fe;0.5913429;b
+P/Fe;0.5602714;b
+;;
+$Maize_Shoot$`2`;;
+;Value;groups
+P;1.660314;a
+Fe;1.589571;a
+C;1.488657;a
+P/Fe;1.459329;a
+;;
+$Maize_Shoot$`4`;;
+;Value;groups
+P;2.121371;a
+Fe;1.939571;a
+C;1.807871;a
+P/Fe;1.750743;a
+;;
+$Maize_Shoot$`7`;;
+;Value;groups
+C;2.530957;a
+Fe;2.516457;a
+P;2.473714;a
+P/Fe;1.708514;a
+;;
+$Maize_Shoot$`9`;;
+;Value;groups
+Fe;3.245171;a
+C;3.042886;a
+P/Fe;2.814;a
+P;2.756971;a
+;;
+$Maize_Shoot$`11`;;
+;Value;groups
+Fe;4.0944;a
+C;4.0139;a
+P;3.920586;a
+P/Fe;3.607186;a
+;;
+$Maize_Shoot$`14`;;
+;Value;groups
+C;7.642914;a
+P;7.036529;a
+P/Fe;6.2228;a
+Fe;5.606957;a
+;;
+;;
+$Tomato_Root;;
+$Tomato_Root$`0`;;
+;Value;groups
+P;0.01661429;a
+Fe;0.01654286;a
+P/Fe;0.01261429;a
+C;0.0123;a
+;;
+$Tomato_Root$`1`;;
+;Value;groups
+Fe;0.01775714;a
+C;0.01424286;a
+P;0.01415714;a
+P/Fe;0.01214286;a
+;;
+$Tomato_Root$`3`;;
+;Value;groups
+P;0.04712857;a
+P/Fe;0.03621429;ab
+Fe;0.03447143;ab
+C;0.0277;b
+;;
+$Tomato_Root$`7`;;
+;Value;groups
+Fe;0.09408571;a
+P/Fe;0.09134286;a
+P;0.09091429;a
+C;0.08294286;a
+;;
+$Tomato_Root$`9`;;
+;Value;groups
+P;0.1817714;a
+C;0.1342857;ab
+Fe;0.1304;ab
+P/Fe;0.1175429;b
+;;
+$Tomato_Root$`11`;;
+;Value;groups
+C;0.2806286;a
+Fe;0.2239286;a
+P/Fe;0.2018286;a
+P;0.1916571;a
+;;
+$Tomato_Root$`14`;;
+;Value;groups
+C;0.4606;a
+P;0.3011857;ab
+Fe;0.2996571;ab
+P/Fe;0.2317714;b
+;;
+;;
+$Tomato_Shoot;;
+$Tomato_Shoot$`0`;;
+;Value;groups
+Fe;0.12761429;a
+P/Fe;0.10535714;a
+C;0.09778571;a
+P;0.0908;a
+;;
+$Tomato_Shoot$`1`;;
+;Value;groups
+Fe;0.1506714;a
+P;0.1467857;a
+C;0.1379;a
+P/Fe;0.1085571;a
+;;
+$Tomato_Shoot$`3`;;
+;Value;groups
+P;0.2469857;a
+Fe;0.2285571;a
+C;0.2277143;a
+P/Fe;0.2008714;a
+;;
+$Tomato_Shoot$`7`;;
+;Value;groups
+C;0.6053429;a
+Fe;0.4453;b
+P;0.3522286;bc
+P/Fe;0.2984;c
+;;
+$Tomato_Shoot$`9`;;
+;Value;groups
+C;1.0111429;a
+Fe;0.5668;b
+P;0.4990857;bc
+P/Fe;0.3061714;c
+;;
+$Tomato_Shoot$`11`;;
+;Value;groups
+C;1.9183286;a
+Fe;0.8226429;b
+P;0.5252857;bc
+P/Fe;0.4020857;c
+;;
+$Tomato_Shoot$`14`;;
+;Value;groups
+C;2.7797286;a
+Fe;0.9473;b
+P;0.5254571;b
+P/Fe;0.3337;b
