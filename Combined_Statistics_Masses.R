@@ -9,8 +9,6 @@ library(agricolae)
 
 
 #Masses statistics for time####
-
-
 #Read CSV ####
 table <- read.csv("DATA_Masses_2.0.csv", sep=";",
                   header=T)
@@ -140,8 +138,6 @@ sink(NULL)
 
 
 #Masses statistics for treatment####
-
-
 #Read CSV ####
 table2 <- read.csv("DATA_Masses.csv", sep=";",
                   header=T)
