@@ -31,12 +31,39 @@ f2 <- ggplot(Summary_table, aes(x = Time, y = mean, group = Treatment, colour = 
   scale_shape_manual(values = c(15:18)) +
   scale_color_manual(values=c("grey77", "darkorange2", "skyblue3", "slateblue3"))+
   geom_errorbar(aes(ymin = mean-se, ymax = mean+se, group = Treatment), width = 0.5) +
-  theme_bw() + 
-  scale_y_continuous(breaks=seq(-40,-11,1)) +
-  scale_x_continuous(breaks=seq(-17,16,1))
-f2 + facet_wrap(~Species_Tissue, scales="free", ncol = 2) + 
+  theme_bw() 
+f2 + facet_wrap(~Species_Tissue, scales = "free",  ncol = 2) + 
   ylab("13C") + 
-  xlab("Time (Days)") 
+  xlab("Time (Days)")
+
+or
+f2 + facet_wrap(~Species_Tissue, scales = "free_y",  ncol = 2) + 
+  geom_blank(aes(y = -39.5)) +
+  geom_blank(aes(y = -27)) +
+  ylab("13C") + 
+  xlab("Time (Days)")
+ 
+or
+f2 + facet_wrap(~Species_Tissue, scales = "free_y",  ncol = 2) + 
+  geom_blank(aes(y = -36.5)) +
+  geom_blank(aes(y = -30.8)) +
+  ylab("13C") + 
+  xlab("Time (Days)")
+
+or
+f2 + facet_wrap(~Species_Tissue, scales = "free_y",  ncol = 2) + 
+  geom_blank(aes(y = -18.2)) +
+  geom_blank(aes(y = -12)) +
+  ylab("13C") + 
+  xlab("Time (Days)")
+
+or
+f2 + facet_wrap(~Species_Tissue, scales = "free_y",  ncol = 2) + 
+  geom_blank(aes(y = -39.5)) +
+  geom_blank(aes(y = -31)) +
+  ylab("13C") + 
+  xlab("Time (Days)")
+ggsave(filename = "000Tomato.pdf", plot = last_plot(), dpi = 600, units = "cm", width = 70, height = 80, scale = 0.5)
 
 
 ggsave(filename = "13C_Scatter-lines_errorbars(bw).pdf", plot = last_plot(), dpi = 600, units = "cm", width = 70, height = 80, scale = 0.5)
